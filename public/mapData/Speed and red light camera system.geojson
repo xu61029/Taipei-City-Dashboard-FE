@@ -1,0 +1,2113 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "桃園區成功路三段235號前",
+        "direction": "往桃園市區方向",
+        "speed limit": "40",
+        "jurisdiction": "桃園分局",
+        "function": "超速"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3246192,
+          25.0071545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "桃園區春日路561號前",
+        "direction": "往桃園市區方向",
+        "speed limit": "50",
+        "jurisdiction": "桃園分局",
+        "function": "超速"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3126443,
+          25.0041947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "桃園區富國路379號對面",
+        "direction": "往蘆竹方向",
+        "speed limit": "50",
+        "jurisdiction": "桃園分局",
+        "function": "超速"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2856691,
+          25.0143339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "桃園區大興西路與正光街口",
+        "direction": "往南桃園交流道方向",
+        "speed limit": "50",
+        "jurisdiction": "桃園分局",
+        "function": "超速、闖紅燈、未依標誌標線號誌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2957252,
+          25.0097658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "桃園區大興西路與正光街口",
+        "direction": "往永安路方向",
+        "speed limit": "50",
+        "jurisdiction": "桃園分局",
+        "function": "超速、闖紅燈、未依標誌標線號誌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2957252,
+          25.0097658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "桃園區莊敬路二段路燈桿(0716800)旁",
+        "direction": "往寶慶路方向",
+        "speed limit": "50",
+        "jurisdiction": "桃園分局",
+        "function": "超速"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2892788,
+          25.0210825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "桃園區溫州街69號對面",
+        "direction": "往大興西路方向",
+        "speed limit": "30",
+        "jurisdiction": "桃園分局",
+        "function": "超速"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.297671,
+          25.00721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "桃園區文中路(中興國中前)",
+        "direction": "往國際路方向",
+        "speed limit": "40",
+        "jurisdiction": "桃園分局",
+        "function": "超速"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2908423,
+          24.9961186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "桃園區文中路(中興國中前)",
+        "direction": "往正光路方向",
+        "speed limit": "40",
+        "jurisdiction": "桃園分局",
+        "function": "超速"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2908423,
+          24.9961186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "中壢區中園路421號前",
+        "direction": "往中壢方向",
+        "speed limit": "50",
+        "jurisdiction": "中壢分局",
+        "function": "超速"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2358292,
+          24.9743518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "中壢區中正路四段353號前",
+        "direction": "往中壢方向",
+        "speed limit": "50",
+        "jurisdiction": "中壢分局",
+        "function": "超速"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.174404,
+          24.9904469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "中壢區中正路二段239巷口",
+        "direction": "往中壢方向",
+        "speed limit": "50",
+        "jurisdiction": "中壢分局",
+        "function": "超速"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1947948,
+          24.9765764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "中壢區新生路三段192號前",
+        "direction": "往大園方向",
+        "speed limit": "50",
+        "jurisdiction": "中壢分局",
+        "function": "超速"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.222058,
+          24.9914016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "中壢區民族路六段360號前",
+        "direction": "往新屋方向",
+        "speed limit": "50",
+        "jurisdiction": "中壢分局",
+        "function": "超速"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1587216,
+          24.962478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "中壢區新生路二段421號前",
+        "direction": "往中壢方向",
+        "speed limit": "50",
+        "jurisdiction": "中壢分局",
+        "function": "超速"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2221979,
+          24.9850841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "中壢區臺31線12.3K",
+        "direction": "往南",
+        "speed limit": "70",
+        "jurisdiction": "中壢分局",
+        "function": "超速"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1922536,
+          24.9906464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "中壢區臺31線12.5K",
+        "direction": "往北",
+        "speed limit": "70",
+        "jurisdiction": "中壢分局",
+        "function": "超速"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1922536,
+          24.9906464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "中壢區領航南路二段與新生路口",
+        "direction": "往北",
+        "speed limit": "50",
+        "jurisdiction": "中壢分局",
+        "function": "闖紅燈、未依標誌標線號誌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2137193,
+          25.0043239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "中壢區中華路普忠路口",
+        "direction": "往中壢方向",
+        "speed limit": "50",
+        "jurisdiction": "中壢分局",
+        "function": "超速、闖紅燈、未依標誌標線號誌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2414597,
+          24.9660178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "中壢區高鐵北路與青心路口",
+        "direction": "往大園方向",
+        "speed limit": "50",
+        "jurisdiction": "中壢分局",
+        "function": "闖紅燈、未依標誌標線號誌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2155839,
+          25.0152156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "中壢區中園路2段346號",
+        "direction": "往大園方向",
+        "speed limit": "50",
+        "jurisdiction": "中壢分局",
+        "function": "超速"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2319572,
+          24.9965277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "中壢區普忠路581巷口",
+        "direction": "往環中東路方向",
+        "speed limit": "50",
+        "jurisdiction": "中壢分局",
+        "function": "超速"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2517944,
+          24.9536818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "中壢區普忠路770巷口",
+        "direction": "往榮民南路方向",
+        "speed limit": "50",
+        "jurisdiction": "中壢分局",
+        "function": "超速"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2512396,
+          24.9542068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "中壢區中豐北路與大圳路一段口",
+        "direction": "往高鐵方向",
+        "speed limit": "50",
+        "jurisdiction": "中壢分局",
+        "function": "超速"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2197109,
+          24.9608579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "中壢區中豐北路與大圳路一段口",
+        "direction": "往市區方向",
+        "speed limit": "50",
+        "jurisdiction": "中壢分局",
+        "function": "超速"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2197109,
+          24.9608579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "中壢區晉元路180號對面",
+        "direction": "往榮民南路方向",
+        "speed limit": "50",
+        "jurisdiction": "中壢分局",
+        "function": "超速"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.260978,
+          24.9503942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "中壢區環西路二段185之2號前",
+        "direction": "往西",
+        "speed limit": "50",
+        "jurisdiction": "中壢分局",
+        "function": "超速"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2108245,
+          24.9646496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "中壢區民權路五段65號前",
+        "direction": "往永園路一段方向",
+        "speed limit": "50",
+        "jurisdiction": "中壢分局",
+        "function": "超速"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2035848,
+          25.0143901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "平鎮區陸橋南路與平德路口",
+        "direction": "北上車道",
+        "speed limit": "50",
+        "jurisdiction": "平鎮分局",
+        "function": "超速"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1908972,
+          24.9259948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "平鎮區中豐路山頂段531號",
+        "direction": "往龍潭方向",
+        "speed limit": "50",
+        "jurisdiction": "平鎮分局",
+        "function": "超速"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.212128,
+          24.8931594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "平鎮區中豐路與三興路岔路口",
+        "direction": "往中壢方向",
+        "speed limit": "50",
+        "jurisdiction": "平鎮分局",
+        "function": "超速"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.217382,
+          24.9071587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "平鎮區民族路雙連一段168號前",
+        "direction": "往新屋方向",
+        "speed limit": "50",
+        "jurisdiction": "平鎮分局",
+        "function": "超速"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.186555,
+          24.9602129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "平鎮區福龍路一段550巷",
+        "direction": "往龍潭方向",
+        "speed limit": "50",
+        "jurisdiction": "平鎮分局",
+        "function": "超速"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2258186,
+          24.8974594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "平鎮區延平路三段260巷口前",
+        "direction": "往楊梅方向",
+        "speed limit": "50",
+        "jurisdiction": "平鎮分局",
+        "function": "超速"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2004469,
+          24.9383848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "平鎮區中豐路與延平路口",
+        "direction": "往平鎮方向",
+        "speed limit": "x",
+        "jurisdiction": "平鎮分局",
+        "function": "闖紅燈、未依標誌標線號誌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2180289,
+          24.9497028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "平鎮區中興路與南豐路口",
+        "direction": "往埔心方向",
+        "speed limit": "50",
+        "jurisdiction": "平鎮分局",
+        "function": "超速"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.188324,
+          24.9088731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "平鎮區金陵路與環南路口",
+        "direction": "往平鎮方向",
+        "speed limit": "50",
+        "jurisdiction": "平鎮分局",
+        "function": "闖紅燈、未依標誌標線號誌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2066661,
+          24.9513969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "平鎮區中興路平鎮段305號前",
+        "direction": "往埔心方向",
+        "speed limit": "50",
+        "jurisdiction": "平鎮分局",
+        "function": "超速"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1914533,
+          24.9033998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "平鎮區金陵路四段409號前80M處",
+        "direction": "往環南路方向",
+        "speed limit": "50",
+        "jurisdiction": "平鎮分局",
+        "function": "超速"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2053963,
+          24.9296022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "平鎮區營德路與華隆街口前150M處",
+        "direction": "往龍岡路方向",
+        "speed limit": "50",
+        "jurisdiction": "平鎮分局",
+        "function": "超速"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2374554,
+          24.9237581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "平鎮區快速路一段(66線快速路24K160下方)",
+        "direction": "往大溪方向",
+        "speed limit": "50",
+        "jurisdiction": "平鎮分局",
+        "function": "超速、闖紅燈、未依標誌標線號誌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2509556,
+          24.8988127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "平鎮區中豐路一段255號前(南往北)",
+        "direction": "往北",
+        "speed limit": "50",
+        "jurisdiction": "平鎮分局",
+        "function": "超速"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2129753,
+          24.9262446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "八德區和強路58號前(西往東)",
+        "direction": "往東",
+        "speed limit": "50",
+        "jurisdiction": "八德分局",
+        "function": "超速"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.318572,
+          24.9608684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "八德區介壽路二段陸軍218營站前",
+        "direction": "往大溪方向",
+        "speed limit": "50",
+        "jurisdiction": "八德分局",
+        "function": "超速"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2912463,
+          24.9469059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "八德區中華路龍壽街口署立桃園醫院前",
+        "direction": "往桃園方向",
+        "speed limit": "50",
+        "jurisdiction": "八德分局",
+        "function": "超速"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2682426,
+          24.9776752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "八德區和強路127號前",
+        "direction": "往桃園方向",
+        "speed limit": "50",
+        "jurisdiction": "八德分局",
+        "function": "超速"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3159224,
+          24.9612988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "八德區新生路段近龍宮街36巷9弄口",
+        "direction": "往平鎮方向",
+        "speed limit": "50",
+        "jurisdiction": "八德分局",
+        "function": "超速"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2588612,
+          24.9269727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "八德區興豐路1176號(往八德方向)",
+        "direction": "八德方向",
+        "speed limit": "50",
+        "jurisdiction": "八德分局",
+        "function": "超速"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3079842,
+          24.9379279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "大溪區石園路327號前",
+        "direction": "往員樹林方向",
+        "speed limit": "60",
+        "jurisdiction": "大溪分局",
+        "function": "超速"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2632188,
+          24.8734103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "大溪區信義路永福派出所前",
+        "direction": "往北(大溪方向)",
+        "speed limit": "50",
+        "jurisdiction": "大溪分局",
+        "function": "超速"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.324083,
+          24.8942399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "大溪區崎頂下坡路段",
+        "direction": "往大溪方向",
+        "speed limit": "50",
+        "jurisdiction": "大溪分局",
+        "function": "超速"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.282295,
+          24.899925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "大溪區瑞安路一段(臺4線29K+650)崁津橋前",
+        "direction": "往石門水庫方向",
+        "speed limit": "60",
+        "jurisdiction": "大溪分局",
+        "function": "超速"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2784789,
+          24.8909648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "大溪區介壽路與仁善街口",
+        "direction": "往大溪方向",
+        "speed limit": "50",
+        "jurisdiction": "大溪分局",
+        "function": "超速"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.286573,
+          24.9079134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "大溪區大鶯路769號",
+        "direction": "往大溪方向",
+        "speed limit": "40",
+        "jurisdiction": "大溪分局",
+        "function": "超速"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.299958,
+          24.9184564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "大溪區康莊路5段6號",
+        "direction": "往龍潭方向",
+        "speed limit": "60",
+        "jurisdiction": "大溪分局",
+        "function": "超速"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2713248,
+          24.8324503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "大溪區員林路一段142巷口",
+        "direction": "往龍潭方向",
+        "speed limit": "50",
+        "jurisdiction": "大溪分局",
+        "function": "超速"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2811139,
+          24.8993694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "大溪區埔頂路二段72號前",
+        "direction": "往八德方向",
+        "speed limit": "50",
+        "jurisdiction": "大溪分局",
+        "function": "超速"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.279279,
+          24.9086782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "大溪區永昌路臺66線路口",
+        "direction": "往中壢方向",
+        "speed limit": "50",
+        "jurisdiction": "大溪分局",
+        "function": "闖紅燈、未依標誌標線號誌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2626134,
+          24.8978911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "大溪區復興路二段20號前",
+        "direction": "往復興方向",
+        "speed limit": "40",
+        "jurisdiction": "大溪分局",
+        "function": "超速"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3052708,
+          24.8317548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "大溪區仁和路二段517巷口",
+        "direction": "往中壢方向",
+        "speed limit": "50",
+        "jurisdiction": "大溪分局",
+        "function": "超速"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2552991,
+          24.9088049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "大溪區仁和路二段517巷口",
+        "direction": "往大溪方向",
+        "speed limit": "50",
+        "jurisdiction": "大溪分局",
+        "function": "超速"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2552991,
+          24.9088049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "大溪區康莊路三段632號對面(台4現34K+200處)",
+        "direction": "往大溪方向",
+        "speed limit": "60",
+        "jurisdiction": "大溪分局",
+        "function": "超速"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2730534,
+          24.8467415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "大溪區台七乙線9.1K處",
+        "direction": "雙向",
+        "speed limit": "40",
+        "jurisdiction": "大溪分局",
+        "function": "超速"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3444155,
+          24.8510209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "大溪區台七乙線8.8K處",
+        "direction": "往大溪方向",
+        "speed limit": "40",
+        "jurisdiction": "大溪分局",
+        "function": "超速"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3444155,
+          24.8510209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "大溪區月眉路1號前約120M處",
+        "direction": "往桃園方向",
+        "speed limit": "50",
+        "jurisdiction": "大溪分局",
+        "function": "超速"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2886961,
+          24.8867379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "復興區台七線羅浮82號",
+        "direction": "往大溪方向",
+        "speed limit": "40",
+        "jurisdiction": "大溪分局",
+        "function": "超速"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3583172,
+          24.7304307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "龜山區復興三路500號對面",
+        "direction": "往大埔方向",
+        "speed limit": "50",
+        "jurisdiction": "龜山分局",
+        "function": "超速"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3709319,
+          25.0418753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "龜山區萬壽路一段17K+960M",
+        "direction": "北上車道",
+        "speed limit": "50",
+        "jurisdiction": "龜山分局",
+        "function": "超速"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.410258,
+          25.0207452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "龜山區東萬壽路與龍校街121巷6弄口",
+        "direction": "南下車道",
+        "speed limit": "50",
+        "jurisdiction": "龜山分局",
+        "function": "超速"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3918389,
+          25.010146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "龜山區東萬壽路622號前",
+        "direction": "北上車道",
+        "speed limit": "50",
+        "jurisdiction": "龜山分局",
+        "function": "超速"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3752026,
+          25.0087918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "龜山區振興路829巷口旁",
+        "direction": "往體育大學方向",
+        "speed limit": "50",
+        "jurisdiction": "龜山分局",
+        "function": "超速"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3630907,
+          25.0213024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "龜山區忠義路一段1196-15號前",
+        "direction": "往林口方向",
+        "speed limit": "60",
+        "jurisdiction": "龜山分局",
+        "function": "超速"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3555558,
+          25.0297222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "龜山區忠義路一段18K+660前",
+        "direction": "往桃園方向",
+        "speed limit": "60",
+        "jurisdiction": "龜山分局",
+        "function": "超速"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3534854,
+          25.0398863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "龜山區樂善村青山路2K",
+        "direction": "往新莊方向",
+        "speed limit": "50",
+        "jurisdiction": "龜山分局",
+        "function": "超速"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3655989,
+          25.0199092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "龜山區振興路1169號前",
+        "direction": "往龜山方向",
+        "speed limit": "50",
+        "jurisdiction": "龜山分局",
+        "function": "超速"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3749232,
+          25.0296912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "龜山區華亞三路近華亞二路前",
+        "direction": "往大埔方向",
+        "speed limit": "50",
+        "jurisdiction": "龜山分局",
+        "function": "超速"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.374172,
+          25.0465233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "龜山區華亞三路近文化二路口",
+        "direction": "往長庚方向",
+        "speed limit": "50",
+        "jurisdiction": "龜山分局",
+        "function": "超速"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3764327,
+          25.0411691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "龜山區文化一路與復興二路口",
+        "direction": "往龜山方向",
+        "speed limit": "60",
+        "jurisdiction": "龜山分局",
+        "function": "超速、闖紅燈、未依標誌標線號誌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3704118,
+          25.0610021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "龜山區文化二路與文昌一街口",
+        "direction": "往林口方向",
+        "speed limit": "50",
+        "jurisdiction": "龜山分局",
+        "function": "闖紅燈、未依標誌標線號誌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3670994,
+          25.056948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "龜山區忠義路一段20.5K處",
+        "direction": "往桃園方向",
+        "speed limit": "60",
+        "jurisdiction": "龜山分局",
+        "function": "超速"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3500753,
+          25.0207933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "龜山區忠義路一段20.5K處",
+        "direction": "往林口方向",
+        "speed limit": "60",
+        "jurisdiction": "龜山分局",
+        "function": "超速"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3500753,
+          25.0207933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "龜山區萬壽路二段與忠孝街口前",
+        "direction": "往北",
+        "speed limit": "50",
+        "jurisdiction": "龜山分局",
+        "function": "超速"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.324373,
+          24.9924285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "龜山區萬壽路二段1262號前",
+        "direction": "往南",
+        "speed limit": "50",
+        "jurisdiction": "龜山分局",
+        "function": "超速"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3270932,
+          24.9932655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "龜山區萬壽路二段472號前",
+        "direction": "往桃園方向",
+        "speed limit": "50",
+        "jurisdiction": "龜山分局",
+        "function": "超速、闖紅燈、未依標誌標線號誌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3502542,
+          25.0023476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "龍潭區福源路256號對面",
+        "direction": "往龍潭市區方向",
+        "speed limit": "40",
+        "jurisdiction": "龍潭分局",
+        "function": "超速"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1860754,
+          24.8262614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "龍潭區中正路三林段330號前",
+        "direction": "往龍潭市區方向",
+        "speed limit": "50",
+        "jurisdiction": "龍潭分局",
+        "function": "超速"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2320974,
+          24.8475972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "龍潭區龍源路大平段290號前",
+        "direction": "往大溪方向",
+        "speed limit": "60",
+        "jurisdiction": "龍潭分局",
+        "function": "超速"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2375306,
+          24.8256643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "龍潭區中正路三坑下坡路段(臺3乙線5K+120)",
+        "direction": "往石門水庫方向",
+        "speed limit": "60",
+        "jurisdiction": "龍潭分局",
+        "function": "超速"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2177988,
+          24.8615517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "龍潭區中興路九龍段104號前",
+        "direction": "往大溪方向",
+        "speed limit": "50",
+        "jurisdiction": "龍潭分局",
+        "function": "超速"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2482956,
+          24.8801237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "龍潭區中豐路台三線50.8K",
+        "direction": "北上車道",
+        "speed limit": "50",
+        "jurisdiction": "龍潭分局",
+        "function": "超速"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2081665,
+          24.8629012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "龍潭區上坪1-2號前",
+        "direction": "往大溪方向",
+        "speed limit": "60",
+        "jurisdiction": "龍潭分局",
+        "function": "超速"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2053963,
+          24.8444927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "龍潭區聖亭路236號春源鋼鐵旁",
+        "direction": "往龍潭方向",
+        "speed limit": "50",
+        "jurisdiction": "龍潭分局",
+        "function": "超速"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2044687,
+          24.8703364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "蘆竹區濱海路一段101號前",
+        "direction": "南下車道",
+        "speed limit": "70",
+        "jurisdiction": "蘆竹分局",
+        "function": "超速"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2556372,
+          25.1127822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "蘆竹區仁愛路三段高鐵橋前",
+        "direction": "往蘆竹方向",
+        "speed limit": "40",
+        "jurisdiction": "蘆竹分局",
+        "function": "超速"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.310085,
+          25.0554407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "蘆竹區富國路130號前",
+        "direction": "往蘆竹方向",
+        "speed limit": "40",
+        "jurisdiction": "蘆竹分局",
+        "function": "超速"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2705554,
+          25.0358523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "蘆竹區大竹路109號前",
+        "direction": "往桃園方向",
+        "speed limit": "50",
+        "jurisdiction": "蘆竹分局",
+        "function": "超速"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2718115,
+          25.0139723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "蘆竹區文中路一段265巷前",
+        "direction": "往桃園方向",
+        "speed limit": "50",
+        "jurisdiction": "蘆竹分局",
+        "function": "超速"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2624166,
+          24.988793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "蘆竹區富國路二段360號",
+        "direction": "雙向",
+        "speed limit": "50",
+        "jurisdiction": "蘆竹分局",
+        "function": "超速"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2684477,
+          25.0398373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "蘆竹區南青路(台31線)3K＋150",
+        "direction": "往南方向",
+        "speed limit": "60",
+        "jurisdiction": "蘆竹分局",
+        "function": "超速"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2759038,
+          25.0582673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "蘆竹區山林路二段655號前",
+        "direction": "往山腳方向",
+        "speed limit": "40",
+        "jurisdiction": "蘆竹分局",
+        "function": "超速"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3080432,
+          25.081968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "蘆竹區大竹北路386號旁",
+        "direction": "往大園方向",
+        "speed limit": "50",
+        "jurisdiction": "蘆竹分局",
+        "function": "超速"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2487935,
+          25.0332245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "蘆竹區八德一路與八德二路口",
+        "direction": "往蘆竹方向",
+        "speed limit": "40",
+        "jurisdiction": "蘆竹分局",
+        "function": "超速"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3451537,
+          25.0659135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "蘆竹區中正路8號前(南往北)",
+        "direction": "往北",
+        "speed limit": "50",
+        "jurisdiction": "蘆竹分局",
+        "function": "超速"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2942315,
+          25.0439494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "蘆竹區蘆興南路408號旁",
+        "direction": "往南崁方向",
+        "speed limit": "50",
+        "jurisdiction": "蘆竹分局",
+        "function": "超速"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2862737,
+          25.0339434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "大園區國際路二段與中央路口",
+        "direction": "北上車道",
+        "speed limit": "70",
+        "jurisdiction": "大園分局",
+        "function": "超速"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2223168,
+          25.0853296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "大園區中正東路一段373號對面",
+        "direction": "往桃園方向",
+        "speed limit": "50",
+        "jurisdiction": "大園分局",
+        "function": "超速"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.223667,
+          25.0450362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "大園區中正東路一段373號",
+        "direction": "往大園方向",
+        "speed limit": "50",
+        "jurisdiction": "大園分局",
+        "function": "超速"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.223667,
+          25.0450362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "大園區大海村1鄰7號(桃5線4.8k)",
+        "direction": "往大園方向",
+        "speed limit": "50",
+        "jurisdiction": "大園分局",
+        "function": "超速"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.193945,
+          25.0492632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "大園區和平西路一段447號前",
+        "direction": "往大園方向",
+        "speed limit": "50",
+        "jurisdiction": "大園分局",
+        "function": "超速"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1861235,
+          25.0460516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "大園區高鐵北路二段與領航北路四段路口前",
+        "direction": "往高鐵方向",
+        "speed limit": "50",
+        "jurisdiction": "大園分局",
+        "function": "闖紅燈、未依標誌標線號誌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2233687,
+          25.0218194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "大園區中正東路與橫湳路口",
+        "direction": "往國道二號方向",
+        "speed limit": "50",
+        "jurisdiction": "大園分局",
+        "function": "超速、闖紅燈、未依標誌標線號誌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2103911,
+          25.0595065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "大園區三民路一段(復興空廚前)",
+        "direction": "往北",
+        "speed limit": "50",
+        "jurisdiction": "大園分局",
+        "function": "超速"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2496186,
+          25.0948371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "大園區臺61線29.3K",
+        "direction": "往南",
+        "speed limit": "90",
+        "jurisdiction": "大園分局",
+        "function": "超速"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2099053,
+          25.1023419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "大園區臺61線29.5K",
+        "direction": "往北",
+        "speed limit": "90",
+        "jurisdiction": "大園分局",
+        "function": "超速"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2099053,
+          25.1023419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "觀音區臺66線（1.080K）與臺15線岔路口（東向西）",
+        "direction": "往台61方向",
+        "speed limit": "80",
+        "jurisdiction": "大園分局",
+        "function": "闖紅燈、未依標誌標線號誌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.09812,
+          25.00156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "觀音區濱海路保生段277號前",
+        "direction": "南下車道",
+        "speed limit": "70",
+        "jurisdiction": "大園分局",
+        "function": "超速"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.052455,
+          25.0169679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "觀音區濱海路廣興段845號前",
+        "direction": "台15線(南北雙向)",
+        "speed limit": "70",
+        "jurisdiction": "大園分局",
+        "function": "超速"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0874525,
+          25.0253262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "新屋區中山西路三段62號前",
+        "direction": "往永安漁港方向",
+        "speed limit": "50",
+        "jurisdiction": "楊梅分局",
+        "function": "超速"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.04482,
+          24.9875874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "新屋區中山東路一段458號前",
+        "direction": "往中壢方向",
+        "speed limit": "50",
+        "jurisdiction": "楊梅分局",
+        "function": "超速"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1252081,
+          24.972013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "新屋區台15線59K處",
+        "direction": "往北",
+        "speed limit": "70",
+        "jurisdiction": "楊梅分局",
+        "function": "超速"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9517799,
+          24.8629277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "新屋區台61線南下平面50.8K處",
+        "direction": "往南",
+        "speed limit": "50",
+        "jurisdiction": "楊梅分局",
+        "function": "超速"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0179607,
+          24.9752792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "楊梅區中山路與大成路口",
+        "direction": "往北(埔心)方向",
+        "speed limit": "50",
+        "jurisdiction": "楊梅分局",
+        "function": "闖紅燈、未依標誌標線號誌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1454698,
+          24.9067834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "楊梅區梅獅路與文化街岔路口",
+        "direction": "往楊梅方向",
+        "speed limit": "40",
+        "jurisdiction": "楊梅分局",
+        "function": "闖紅燈、未依標誌標線號誌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.183654,
+          24.912462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "楊梅區中山南路台1線50.5k處",
+        "direction": "往北",
+        "speed limit": "60",
+        "jurisdiction": "楊梅分局",
+        "function": "超速"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.109721,
+          24.8955226
+        ]
+      }
+    }
+  ]
+}
