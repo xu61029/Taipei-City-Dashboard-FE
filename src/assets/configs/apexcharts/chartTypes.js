@@ -16,4 +16,5 @@ export const chartTypes = {
 	BarChartWithGoal: "長條圖(目標)",
 	IconPercentChart: "圖示比例圖",
 	SpeedometerChart: "儀表板圖",
+	BasiccolumnChart: "多條形圖",
 };

@@ -1,0 +1,205 @@
+{
+	"type": "FeatureCollection",
+	"crs": {
+		"type": "name",
+		"properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" }
+	},
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"location": "台61桃園段41.5K至46.8K",
+				"direction": "北向",
+				"speed limit": "90",
+				"Detection length": "5,265公尺",
+				"function": "超速"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.1558252, 25.0756045]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"location": "台61桃園段41.6K至46.9K",
+				"direction": "南向",
+				"speed limit": "90",
+				"Detection length": "5,273公尺",
+				"function": "超速"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.1558252, 25.0756045]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"location": "龜山區萬壽路一段(東萬壽路309巷-萬壽路1段1275巷)",
+				"direction": "往龜山",
+				"speed limit": "50",
+				"Detection length": "1,145.06公尺",
+				"function": "超速"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.363824, 25.0017895]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"location": "龜山區萬壽路一段(東萬壽路309巷-萬壽路1段1275巷)",
+				"direction": "往迴龍",
+				"speed limit": "50",
+				"Detection length": "1,237.44公尺",
+				"function": "超速"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.363824, 25.0017895]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"location": "龜山區青山路二段(青山路1段200號-青山路2段文青路)",
+				"direction": "往龜山",
+				"speed limit": "50",
+				"Detection length": "1,545.92公尺",
+				"function": "超速"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3916964, 25.0355698]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"location": "龜山區青山路二段(青山路1段200號-青山路2段文青路)",
+				"direction": "往迴龍",
+				"speed limit": "50",
+				"Detection length": "1,700.75公尺",
+				"function": "超速"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3916964, 25.0355698]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"location": "大溪區台七乙線12.1K至8.2K",
+				"direction": "北向",
+				"speed limit": "40",
+				"Detection length": "3,838公尺",
+				"function": "超速"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3444155, 24.8510209]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"location": "大溪區台七乙線8.2K至12.1K",
+				"direction": "南向",
+				"speed limit": "40",
+				"Detection length": "3,829公尺",
+				"function": "超速"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3444155, 24.8510209]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"location": "桃園台66快速道路14.8K至11.5K",
+				"direction": "西向",
+				"speed limit": "90",
+				"Detection length": "3,260公尺",
+				"function": "超速"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.1529905, 24.9552428]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"location": "桃園台66快速道路3K至6.9K",
+				"direction": "東向",
+				"speed limit": "80",
+				"Detection length": "3,876公尺",
+				"function": "超速"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.1529905, 24.9552428]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"location": "大溪區台三線30.5K至31.8K",
+				"direction": "南向",
+				"speed limit": "50",
+				"Detection length": "1,183.01公尺",
+				"function": "超速"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3001736, 24.8915662]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"location": "大溪區台三線31.8K至30.5K",
+				"direction": "北向",
+				"speed limit": "50",
+				"Detection length": "1,205.51公尺",
+				"function": "超速"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3001736, 24.8915662]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"location": "龍潭區台三線50.5K新龍路口至51.7K健康路口",
+				"direction": "南向",
+				"speed limit": "60",
+				"Detection length": "1,021公尺",
+				"function": "超速"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2053963, 24.8444927]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"location": "龍潭區台三線51.7K健康路口至50.5K新龍路口",
+				"direction": "北向",
+				"speed limit": "60",
+				"Detection length": "1,020.37公尺",
+				"function": "超速"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2053963, 24.8444927]
+			}
+		}
+	]
+}

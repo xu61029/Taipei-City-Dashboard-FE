@@ -1,8 +1,8 @@
 {
 	"data": [
 		{
-			"name": "祝您好孕",
-			"index": "childcare",
+			"name": "全區",
+			"index": "All_Taoyuan",
 			"components": [
 				"154",
 				"153",
@@ -13,11 +13,11 @@
 				"152",
 				"7"
 			],
-			"icon": "child_friendly"
+			"icon": "public"
 		},
 		{
-			"name": "韌性城市",
-			"index": "urban-resiliance",
+			"name": "桃園分局",
+			"index": "Taoyuan",
 			"components": [
 				"163",
 				"59",
@@ -31,56 +31,56 @@
 			"icon": "grass"
 		},
 		{
-			"name": "YouBike研究",
-			"index": "youbike",
+			"name": "中壢分局",
+			"index": "Zhongli",
 			"components": ["60", "142", "143", "144", "145", "146", "147"],
 			"icon": "pedal_bike"
 		},
 		{
-			"name": "民情熱議",
-			"index": "public-opinion",
+			"name": "楊梅分局",
+			"index": "Yangmei",
 			"components": ["5", "72"],
 			"icon": "mic"
 		},
 		{
-			"name": "社會安全",
-			"index": "security",
+			"name": "大溪分局",
+			"index": "Daxi",
 			"components": ["8", "7", "83", "22", "107"],
 			"icon": "security"
 		},
 		{
-			"name": "交通運輸",
-			"index": "transport",
+			"name": "蘆竹分局",
+			"index": "Luzhu",
 			"components": ["73", "116", "114", "79", "60", "57", "26"],
 			"icon": "train"
 		},
 		{
-			"name": "城市建設",
-			"index": "construction",
+			"name": "大園分局",
+			"index": "Dayuan",
 			"components": ["140", "34", "42", "108", "20", "28", "33"],
 			"icon": "construction"
 		},
 		{
-			"name": "生態環境",
-			"index": "environment",
+			"name": "龜山分局",
+			"index": "Guishan",
 			"components": ["141", "110", "103", "104", "111", "43", "59"],
 			"icon": "forest"
 		},
 		{
-			"name": "社會福利",
-			"index": "welfare",
+			"name": "八德分局",
+			"index": "Bade",
 			"components": ["90", "82", "29"],
 			"icon": "handshake"
 		},
 		{
-			"name": "收藏組件",
-			"index": "favorites",
+			"name": "龍潭分局",
+			"index": "Longtan",
 			"components": [],
 			"icon": "favorite"
 		},
 		{
-			"name": "圖資資訊",
-			"index": "map-layers",
+			"name": "平鎮分局",
+			"index": "Pingzhen",
 			"components": [
 				"32",
 				"15",
@@ -95,6 +95,18 @@
 				"30",
 				"106"
 			],
+			"icon": "public"
+		},
+		{
+			"name": "收藏組件",
+			"index": "favorites",
+			"components": [],
+			"icon": "favorite"
+		},
+		{
+			"name": "圖資資訊",
+			"index": "map-layers",
+			"components": [],
 			"icon": "public"
 		}
 	]

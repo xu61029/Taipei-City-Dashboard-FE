@@ -3,7 +3,6 @@
 <!-- Navigation will be hidden from the navbar in mobile mode and moved to the settingsbar -->
 
 <script setup>
-const { VITE_APP_TITLE } = import.meta.env;
 import { computed } from "vue";
 import { useRoute } from "vue-router";
 import { useAuthStore } from "../store/authStore";
@@ -11,6 +10,7 @@ import { useDialogStore } from "../store/dialogStore";
 import { useFullscreen } from "@vueuse/core";
 
 import UserSettings from "./dialogs/UserSettings.vue";
+const { VITE_APP_TITLE } = import.meta.env;
 
 const route = useRoute();
 const authStore = useAuthStore();
@@ -31,7 +31,7 @@ const linkQuery = computed(() => {
 			</div>
 			<div>
 				<h1>{{ VITE_APP_TITLE }}</h1>
-				<h2>Taipei City Dashboard Open Source</h2>
+				<h2>Traffic Accident Analysis and Prediction System</h2>
 			</div>
 		</div>
 		<div class="navbar-tabs hide-if-mobile">

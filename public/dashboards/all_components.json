@@ -5159,6 +5159,59 @@
 				"林育緹",
 				"tuic"
 			]
+		},
+		"165": {
+			"id": 165,
+			"index": "AAutomatic_detection_photo_system",
+			"map_config": [
+				{
+					"index": "Automatic_detection_photo_system_view",
+					"property": [
+						{
+							"key": "location",
+							"name": "地點"
+						},
+						{
+							"key": "direction",
+							"name": "方向"
+						},
+						{
+							"key": "speed limit",
+							"name": "速限"
+						},
+						{
+							"key": "Detection length",
+							"name": "測速總長"
+						},
+						{
+							"key": "function",
+							"name": "測速結果"
+						}
+					],
+					"type": "symbol",
+					"icon": "bus",
+					"title": "公車站"
+				}
+			],
+			"name": "公車站",
+			"chart_config": {
+				"types": ["MapLegend"]
+			},
+			"chart_data": [
+				{
+					"type": "symbol",
+					"color": null,
+					"name": "公車站",
+					"value": null,
+					"icon": "bus"
+				}
+			],
+			"source": "交通局",
+			"time_from": null,
+			"time_to": null,
+			"update_freq": null,
+			"update_freq_unit": null,
+			"contributors": ["tuic"]
 		}
 	}
 }

@@ -1,0 +1,566 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "桃園區文中路與龍安路口",
+        "direction": "往國際路方向",
+        "speed limit": "50",
+        "jurisdiction": "桃園分局",
+        "function": "超速、闖紅燈、未依標誌標線號誌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2847333,
+          24.9953323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "桃園區復興路83號前",
+        "direction": "往民生路方向",
+        "speed limit": "x",
+        "jurisdiction": "桃園分局",
+        "function": "公車停靠區違規(臨時)停車"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3142533,
+          24.9907425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "桃園區長壽路與成功路三段路口",
+        "direction": "往東",
+        "speed limit": "x",
+        "jurisdiction": "桃園分局",
+        "function": "闖紅燈、未兩段式左轉、未依標誌標線號誌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3239287,
+          24.9963005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "桃園區長壽路與成功路三段路口",
+        "direction": "往西",
+        "speed limit": "x",
+        "jurisdiction": "桃園分局",
+        "function": "闖紅燈、占用機慢車停等區、未依標誌標線號誌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3239287,
+          24.9963005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "桃園區成功路三段與長壽路口",
+        "direction": "往南",
+        "speed limit": "x",
+        "jurisdiction": "桃園分局",
+        "function": "闖紅燈、未依標誌標線號誌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.50605,
+          25.14195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "桃園區長壽路與三民路一段路口(行人穿越道線)",
+        "direction": "往北",
+        "speed limit": "x",
+        "jurisdiction": "桃園分局",
+        "function": "未禮讓行人"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.323335,
+          24.9961867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "桃園區三民路一段與成功路二段路口",
+        "direction": "往南",
+        "speed limit": "x",
+        "jurisdiction": "桃園分局",
+        "function": "闖紅燈、未兩段式左轉、占用機慢車停等區、未依標誌標線號誌闖紅燈"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3231415,
+          24.9961692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "桃園區成功路二段與三民路口",
+        "direction": "往東",
+        "speed limit": "x",
+        "jurisdiction": "桃園分局",
+        "function": "未依標誌標線號誌、未禮讓行人、占用機慢車停等區、未保持路口淨空、逆向行駛、違規迴轉"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3234156,
+          24.9961061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "桃園區三民路與長壽路口",
+        "direction": "往北",
+        "speed limit": "x",
+        "jurisdiction": "桃園分局",
+        "function": "闖紅燈、未依標誌標線號誌、違規迴轉"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2969674,
+          24.9934099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "中壢區中華路二段與中園路(忠義路)(西往東)",
+        "direction": "往東",
+        "speed limit": "x",
+        "jurisdiction": "中壢分局",
+        "function": "闖紅燈、未依標誌標線號誌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2363957,
+          24.9643963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "中壢區中華路二段與中園路(忠義路)(東往西)",
+        "direction": "往西",
+        "speed limit": "x",
+        "jurisdiction": "中壢分局",
+        "function": "闖紅燈、未依標誌標線號誌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.202518,
+          23.600455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "中壢區中華路與自強一路口",
+        "direction": "往桃園方向",
+        "speed limit": "50",
+        "jurisdiction": "中壢分局",
+        "function": "超速、闖紅燈、未依標誌標線號誌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2443768,
+          24.9671527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "楊梅區楊新路與大成路口",
+        "direction": "路口轉角處",
+        "speed limit": "x",
+        "jurisdiction": "楊梅分局",
+        "function": "違規(臨時)停車"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1456965,
+          24.9132579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "楊梅區中山北路進國道一號上匝道口",
+        "direction": "往埔心方向",
+        "speed limit": "x",
+        "jurisdiction": "楊梅分局",
+        "function": "違規跨越雙白線行駛"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1271771,
+          24.8939674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "楊梅區中山北路二段與裕成路口(東往西)",
+        "direction": "往西",
+        "speed limit": "x",
+        "jurisdiction": "楊梅分局",
+        "function": "闖紅燈、未依標誌標線號誌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1366715,
+          24.9242108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "楊梅區中山北路二段與裕成路口(西往東)",
+        "direction": "往東",
+        "speed limit": "50",
+        "jurisdiction": "楊梅分局",
+        "function": "超速、闖紅燈、未依標誌標線號誌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1732477,
+          24.9103738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "楊梅區中山北路二段與裕成路口(南往北)",
+        "direction": "往北",
+        "speed limit": "x",
+        "jurisdiction": "楊梅分局",
+        "function": "闖紅燈、未依標誌標線號誌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1732477,
+          24.9103738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "大園區中正東路三段與青昇路(南往北)",
+        "direction": "往北",
+        "speed limit": "50",
+        "jurisdiction": "大園分局",
+        "function": "超速、闖紅燈、未兩段式左轉、未依標誌標線號誌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2277453,
+          25.0140901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "大園區中正東路三段與青昇路(北往南)",
+        "direction": "往南",
+        "speed limit": "x",
+        "jurisdiction": "大園分局",
+        "function": "闖紅燈、未依標誌標線號誌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2277453,
+          25.0140901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "平鎮區中豐路一段166號前",
+        "direction": "往龍潭方向",
+        "speed limit": "50",
+        "jurisdiction": "平鎮分局",
+        "function": "超速、闖紅燈、未依標誌標線號誌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2132909,
+          24.9284597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "平鎮區民族路二段175至209號前路段",
+        "direction": "往台1線方向",
+        "speed limit": "x",
+        "jurisdiction": "平鎮分局",
+        "function": "違規(臨時)停車"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2040306,
+          24.9569893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "平鎮區中豐路南勢一段與中豐路一段342巷口(南往北)",
+        "direction": "往北",
+        "speed limit": "x",
+        "jurisdiction": "平鎮分局",
+        "function": "闖紅燈、未依標誌標線號誌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2124406,
+          24.9250646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "平鎮區中豐路南勢一段2號前(北往南)",
+        "direction": "往南",
+        "speed limit": "x",
+        "jurisdiction": "平鎮分局",
+        "function": "闖紅燈、未依標誌標線號誌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2120549,
+          24.924858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "龜山區萬壽路二段與振興路口(西往東)",
+        "direction": "往東",
+        "speed limit": "50",
+        "jurisdiction": "龜山分局",
+        "function": "超速、闖紅燈、未依標誌標線號誌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.348419,
+          25.002103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "龜山區萬壽路二段與振興路口(東往西)",
+        "direction": "往西",
+        "speed limit": "x",
+        "jurisdiction": "龜山分局",
+        "function": "未禮讓行人"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3655989,
+          25.0199092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "龜山區復興一路長庚醫院前",
+        "direction": "往文化二路方向",
+        "speed limit": "x",
+        "jurisdiction": "龜山分局",
+        "function": "違規(臨時)停車"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3679272,
+          25.061042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "八德區福德一路與和強路口(東往西)",
+        "direction": "往西",
+        "speed limit": "x",
+        "jurisdiction": "八德分局",
+        "function": "闖紅燈、未依標誌標線號誌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3263913,
+          24.9635818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "八德區福德一路與國道2號西向匝道入口",
+        "direction": "國道2號西向匝道入口",
+        "speed limit": "x",
+        "jurisdiction": "八德分局",
+        "function": "闖紅燈、未依標誌標線號誌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3050137,
+          24.9739516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "蘆竹區國門陸橋下橋號誌管制處置往國道一號南下匝道處",
+        "direction": "往蘆竹方向",
+        "speed limit": "x",
+        "jurisdiction": "蘆竹分局",
+        "function": "未依標誌標線號誌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2895994,
+          25.0321911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "蘆竹區中正路與榮興路口",
+        "direction": "往蘆竹方向",
+        "speed limit": "x",
+        "jurisdiction": "蘆竹分局",
+        "function": "違規迴轉"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2969674,
+          25.0784359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "蘆竹區國道一號南下匝道口與新南路一段交界處",
+        "direction": "往桃園方向",
+        "speed limit": "x",
+        "jurisdiction": "蘆竹分局",
+        "function": "違規迴轉"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2895994,
+          25.0321911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "蘆竹區中正路與忠孝東路口(南往北)",
+        "direction": "往北",
+        "speed limit": "x",
+        "jurisdiction": "蘆竹分局",
+        "function": "闖紅燈、未依標誌標線號誌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2936953,
+          25.0446779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "蘆竹區中正路與忠孝東路口(北往南)",
+        "direction": "往南",
+        "speed limit": "x",
+        "jurisdiction": "蘆竹分局",
+        "function": "未禮讓行人"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2936953,
+          25.0446779
+        ]
+      }
+    }
+  ]
+}
