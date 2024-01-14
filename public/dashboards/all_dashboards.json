@@ -4,98 +4,80 @@
 			"name": "全區",
 			"index": "All_Taoyuan",
 			"components": [
-				"154",
-				"153",
-				"156",
-				"151",
-				"155",
-				"150",
-				"152",
-				"7"
+				"186",
+				"197",
+				"212",
+				"213",
+				"214",
+				"215",
+				"216",
+				"217",
+				"218",
+				"219",
+				"220",
+				"221"
 			],
 			"icon": "public"
 		},
 		{
 			"name": "桃園分局",
 			"index": "Taoyuan",
-			"components": [
-				"163",
-				"59",
-				"161",
-				"162",
-				"110",
-				"103",
-				"160",
-				"164"
-			],
+			"components": ["166", "176", "187", "198"],
 			"icon": "grass"
 		},
 		{
 			"name": "中壢分局",
 			"index": "Zhongli",
-			"components": ["60", "142", "143", "144", "145", "146", "147"],
+			"components": ["167", "177", "188", "199"],
 			"icon": "pedal_bike"
 		},
 		{
 			"name": "楊梅分局",
 			"index": "Yangmei",
-			"components": ["5", "72"],
+			"components": ["168", "178", "189", "200"],
 			"icon": "mic"
 		},
 		{
 			"name": "大溪分局",
 			"index": "Daxi",
-			"components": ["8", "7", "83", "22", "107"],
+			"components": ["169", "179", "190", "201"],
 			"icon": "security"
 		},
 		{
 			"name": "蘆竹分局",
 			"index": "Luzhu",
-			"components": ["73", "116", "114", "79", "60", "57", "26"],
+			"components": ["170", "180", "191", "202"],
 			"icon": "train"
 		},
 		{
 			"name": "大園分局",
 			"index": "Dayuan",
-			"components": ["140", "34", "42", "108", "20", "28", "33"],
+			"components": ["171", "181", "192", "203"],
 			"icon": "construction"
 		},
 		{
 			"name": "龜山分局",
 			"index": "Guishan",
-			"components": ["141", "110", "103", "104", "111", "43", "59"],
+			"components": ["172", "182", "193", "204"],
 			"icon": "forest"
 		},
 		{
 			"name": "八德分局",
 			"index": "Bade",
-			"components": ["90", "82", "29"],
+			"components": ["173", "183", "194", "205"],
 			"icon": "handshake"
 		},
 		{
 			"name": "龍潭分局",
 			"index": "Longtan",
-			"components": [],
+			"components": ["174", "184", "195", "206"],
 			"icon": "favorite"
 		},
 		{
 			"name": "平鎮分局",
 			"index": "Pingzhen",
-			"components": [
-				"32",
-				"15",
-				"105",
-				"109",
-				"91",
-				"11",
-				"14",
-				"115",
-				"9",
-				"16",
-				"30",
-				"106"
-			],
-			"icon": "public"
+			"components": ["175", "185", "196", "207"],
+			"icon": "book"
 		},
 		{
 			"name": "收藏組件",
@@ -106,7 +88,7 @@
 		{
 			"name": "圖資資訊",
 			"index": "map-layers",
-			"components": [],
+			"components": ["165", "208", "209", "210", "211"],
 			"icon": "public"
 		}
 	]

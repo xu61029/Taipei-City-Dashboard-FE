@@ -1,0 +1,1535 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "桃園區中山路與國際路一(二)段",
+        "direction": "國際路二段上(往南)",
+        "function": "闖紅燈、未依標誌標線號誌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2886852,
+          24.9898611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "桃園區春日路與南平路口(健行路)",
+        "direction": "春日路(往南)",
+        "function": "闖紅燈、未依標誌標線號誌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.309181,
+          25.021873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "桃園區春日路與民光東路",
+        "direction": "民光東路上(往民生路方向)",
+        "function": "闖紅燈、未依標誌標線號誌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3122333,
+          25.0061932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "桃園區經國路與南平路口",
+        "direction": "經國路上(往南崁方向)",
+        "function": "闖紅燈、未依標誌標線號誌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3039718,
+          25.0203756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "桃園區三民路與復興路口",
+        "direction": "復興路上(往民族路方向)",
+        "function": "闖紅燈、未依標誌標線號誌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3245045,
+          24.9946376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "桃園區桃鶯路與大智路口",
+        "direction": "桃鶯路上(往樹仁二街方向)",
+        "function": "闖紅燈、未依標誌標線號誌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3229596,
+          24.9767179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "桃園區建新街與保羅街口",
+        "direction": "建新街上(往昆明路方向)",
+        "function": "闖紅燈、未依標誌標線號誌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3114791,
+          24.9816569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "桃園區永安路與永安路1188巷",
+        "direction": "永安路上(往國道二號方向)",
+        "function": "闖紅燈、未依標誌標線號誌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2807508,
+          25.0102603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "桃園區三民路三段與大同路口",
+        "direction": "大同路上(往南門街方向)",
+        "function": "闖紅燈、未依標誌標線號誌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3067434,
+          24.9902959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "桃園區三民路三段與介壽路口",
+        "direction": "介壽路上(往八德方向)",
+        "function": "闖紅燈、未依標誌標線號誌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3076393,
+          24.9820404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "桃園區國際路二段與大興西路三段",
+        "direction": "國際路上(往南)",
+        "function": "闖紅燈、未依標誌標線號誌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2868244,
+          25.0020705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "桃園區桃鶯路與建國路口",
+        "direction": "桃鶯路上(往北)",
+        "function": "闖紅燈、未依標誌標線號誌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3180078,
+          24.9860047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "桃園區復興路與民生路口",
+        "direction": "復興路上(往龜山)",
+        "function": "闖紅燈、未依標誌標線號誌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3149987,
+          24.9910586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "桃園區經國路與莊敬路口",
+        "direction": "經國路上(往南)",
+        "function": "闖紅燈、未依標誌標線號誌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.304893,
+          25.027059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "桃園區中正路、復興路口",
+        "direction": "中正路上(往景福宮方向之右轉車輛)",
+        "function": "未禮讓行人"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.314411,
+          24.991692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "中壢區聖德路與月桃路口",
+        "direction": "月桃路上(往東)",
+        "function": "闖紅燈、未依標誌標線號誌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1934345,
+          24.9854452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "中壢區中豐路與中正路",
+        "direction": "中正路上(往東)",
+        "function": "闖紅燈、未依標誌標線號誌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2188202,
+          24.9550403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "中壢區環北路與新生路",
+        "direction": "環北路上(往東)",
+        "function": "闖紅燈、未依標誌標線號誌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2235454,
+          24.9660131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "中壢區中正路與三民路一段(志廣路)",
+        "direction": "中正路上(往南)",
+        "function": "闖紅燈、未依標誌標線號誌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.206592,
+          24.9611175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "中壢區環中東路與普忠路",
+        "direction": "普忠路(往新中北路方向)",
+        "function": "闖紅燈、未依標誌標線號誌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2490768,
+          24.9577882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "中壢區環中東路與新中北路",
+        "direction": "環中東路(往實踐路方向)",
+        "function": "闖紅燈、未依標誌標線號誌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2480834,
+          24.9570646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "中壢區環中東路二段與中山東路二段",
+        "direction": "中山東路二段(往南)",
+        "function": "闖紅燈、未依標誌標線號誌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2403578,
+          24.9515428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "中壢區環中東路二段與龍岡路二段",
+        "direction": "龍岡路二段(往北)",
+        "function": "闖紅燈、未依標誌標線號誌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2295604,
+          24.9445901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "中壢區高鐵南路與公園路",
+        "direction": "高鐵南路上(往高鐵方向)",
+        "function": "闖紅燈、未依標誌標線號誌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2047897,
+          25.0031277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "中壢區中華路一段與遠東路口",
+        "direction": "中華路上(往中壢)",
+        "function": "闖紅燈、未依標誌標線號誌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.261169,
+          24.973686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "中壢區興仁路一段與中華路一段",
+        "direction": "中華路一段(往內壢火車站方向)",
+        "function": "闖紅燈、未依標誌標線號誌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2600324,
+          24.9735931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "中壢區中正路三段與高鐵南路三段",
+        "direction": "高鐵南路四段上(往高鐵南路三段方向)",
+        "function": "闖紅燈、未依標誌標線號誌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1864521,
+          24.9850332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "中壢區環中東路與永福路",
+        "direction": "環中東路上(往榮安一街方向)",
+        "function": "闖紅燈、未依標誌標線號誌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2546739,
+          24.9618584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "中壢區延平路與元化路",
+        "direction": "元化路上(往西北)",
+        "function": "闖紅燈、未依標誌標線號誌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2266413,
+          24.9614263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "中壢區中山路與長江路",
+        "direction": "中山路上(往元化路方向)",
+        "function": "闖紅燈、未依標誌標線號誌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2282987,
+          24.9549906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "中壢區延平路與中央東路",
+        "direction": "延平路上(往中美路方向)",
+        "function": "闖紅燈、未依標誌標線號誌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2236889,
+          24.9572482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "中壢區中園路與桃圳路",
+        "direction": "內壢交流道北上出口往大園方向下匝道處(往中壢方向)",
+        "function": "闖紅燈、未依標誌標線號誌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.238938,
+          24.9865658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "楊梅區楊新路一段與民富路一段路口",
+        "direction": "楊新路一段上(往北)",
+        "function": "闖紅燈、未依標誌標線號誌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1372412,
+          24.9185588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "楊梅區中興路與永美路口",
+        "direction": "永美路(往南)",
+        "function": "闖紅燈、未依標誌標線號誌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1874769,
+          24.9129132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "楊梅區幼獅路二段與高上路一段口",
+        "direction": "幼獅路二段(往西)",
+        "function": "闖紅燈、未依標誌標線號誌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1653538,
+          24.9372607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "楊梅區中山北路二段與梅獅路一段口",
+        "direction": "梅獅路上(往南)",
+        "function": "闖紅燈、未依標誌標線號誌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1744675,
+          24.9114035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "新屋區三民路與中華路口",
+        "direction": "三民路上(往桃園醫院新屋分院方向)",
+        "function": "闖紅燈、未依標誌標線號誌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1068924,
+          24.9688678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "新屋區中山西路三段與台61線路口",
+        "direction": "台61線平面(往南)",
+        "function": "闖紅燈、未依標誌標線號誌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0301077,
+          24.988902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "楊梅區幼獅路一段與梅獅路口",
+        "direction": "梅獅路上(往幼獅路一段)",
+        "function": "闖紅燈、未依標誌標線號誌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1807966,
+          24.9223564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "大園區民生路與中華路口",
+        "direction": "民生路上(往台15線方向)",
+        "function": "闖紅燈、未依標誌標線號誌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1998772,
+          25.0677498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "大園區民生路口與國際路一段口",
+        "direction": "民生路上(往台61線方向)",
+        "function": "闖紅燈、未依標誌標線號誌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1986409,
+          25.0724135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "大園區台31線與高鐵北路三段373巷口",
+        "direction": "南青路上(往桃園高鐵方向)",
+        "function": "闖紅燈、未依標誌標線號誌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2302006,
+          25.0283807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "大園區大觀路與園航路口",
+        "direction": "大觀路上(往園航路)",
+        "function": "闖紅燈、未依標誌標線號誌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1751304,
+          25.0619339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "大園區建國路與三民路二段口",
+        "direction": "建國路上(往三民路)",
+        "function": "闖紅燈、未依標誌標線號誌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2593236,
+          25.0782665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "觀音區新華路一段、快速路八段路口",
+        "direction": "新華路一段上(往南)",
+        "function": "闖紅燈、未依標誌標線號誌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1028554,
+          24.9996214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "觀音區金橋路育仁段與育仁路二段路口",
+        "direction": "金橋路育仁段上(往金橋路新興段方向)",
+        "function": "闖紅燈、未依標誌標線號誌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1019175,
+          25.0129261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "觀音區九如街與三多街口",
+        "direction": "九如街上(往南)",
+        "function": "闖紅燈、未依標誌標線號誌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1425998,
+          25.0403716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "大溪區永昌路與仁和路二段路口",
+        "direction": "仁和路二段上(往興昌路方向)",
+        "function": "闖紅燈、未依標誌標線號誌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.26155,
+          24.9060963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "大溪區台3線、台4線(康莊路)與大鶑路口",
+        "direction": "康莊路上(往大溪老街方向)",
+        "function": "闖紅燈、未依標誌標線號誌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.278311,
+          24.8920351
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "大溪區員林路一段7巷口",
+        "direction": "員林路一段(往介壽路方向)",
+        "function": "闖紅燈、未依標誌標線號誌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2831306,
+          24.8973428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "大溪區石園路與員林路二段口",
+        "direction": "員林路二段上(往石園路)",
+        "function": "闖紅燈、未依標誌標線號誌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2656446,
+          24.8822369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "大溪區埔頂路一段與慈光街口",
+        "direction": "埔頂路一段上(往埔頂一街方向)",
+        "function": "闖紅燈、未依標誌標線號誌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2768997,
+          24.9052615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "平鎮區中庸路與中豐路南勢二段口",
+        "direction": "中豐路上(往台66線方向)",
+        "function": "闖紅燈、未依標誌標線號誌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2104837,
+          24.9137022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "平鎮區南東路與南東路393巷口",
+        "direction": "南東路上(往台66方向)",
+        "function": "闖紅燈、未依標誌標線號誌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2207912,
+          24.9184678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "平鎮區延平路三段與延平路三段428巷口",
+        "direction": "延平路上(往台66方向)",
+        "function": "闖紅燈、未依標誌標線號誌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1998919,
+          24.9339473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "平鎮區延平路二段與環南路口",
+        "direction": "延平路上(往中壢市區方向)",
+        "function": "闖紅燈、未依標誌標線號誌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2084106,
+          24.9450263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "平鎮區民族路三段與三民路一段路口",
+        "direction": "民族路三段上(往國道一號方向)",
+        "function": "闖紅燈、未依標誌標線號誌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1944742,
+          24.9573365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "平鎮區金陵路三段273巷口",
+        "direction": "金陵路三段上(往金陵路三段273巷)",
+        "function": "闖紅燈、未依標誌標線號誌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2283833,
+          24.9239258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "平鎮區金陵路四段與建安路口",
+        "direction": "金陵路四段上(往北)",
+        "function": "闖紅燈、未依標誌標線號誌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2305719,
+          24.918065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "龜山區長壽路與光峰路口",
+        "direction": "長壽路上(往忠義路一段方向)",
+        "function": "闖紅燈、未依標誌標線號誌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3366407,
+          24.9980384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "龜山區忠義路與長壽路口",
+        "direction": "長壽路上(往桃園方向)",
+        "function": "闖紅燈、未依標誌標線號誌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3655989,
+          25.0199092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "龜山區振興路、振興路229巷口",
+        "direction": "振興路上(往林口方向)",
+        "function": "闖紅燈、未依標誌標線號誌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3533263,
+          25.0075391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "龜山區振興路、振興路229巷口",
+        "direction": "振興路上(往龜山方向)",
+        "function": "闖紅燈、未依標誌標線號誌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3533263,
+          25.0075391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "龜山區台4線與有恆街口",
+        "direction": "台4線上(往南崁方向)",
+        "function": "闖紅燈、未依標誌標線號誌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3096588,
+          25.0126277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "龜山區忠義路三段、龜山一路口",
+        "direction": "忠義路三段上(往林口方向)",
+        "function": "闖紅燈、未依標誌標線號誌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.354353,
+          25.0618128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "龜山區文化三路、龜山一路口",
+        "direction": "龜山一路上(往文化二路方向)",
+        "function": "闖紅燈、未依標誌標線號誌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3646079,
+          25.0567015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "龜山區萬壽路一段與中正路口",
+        "direction": "萬壽路一段上(往新莊)",
+        "function": "闖紅燈、未依標誌標線號誌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3869906,
+          25.012065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "龜山區萬壽路一段與中正路口",
+        "direction": "萬壽路一段上(往桃園)",
+        "function": "闖紅燈、未依標誌標線號誌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3869906,
+          25.012065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "龜山區萬壽路一段與工興街口",
+        "direction": "萬壽路一段上(往桃園)",
+        "function": "闖紅燈、未依標誌標線號誌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3995286,
+          25.0164955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "八德區福德一路與和成路口",
+        "direction": "福德一路上(往和強路方向)",
+        "function": "闖紅燈、未依標誌標線號誌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3263913,
+          24.9635818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "八德區介壽路二段與建國路(和平路)",
+        "direction": "建國路上(往和平路方向)",
+        "function": "闖紅燈、未依標誌標線號誌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2991137,
+          24.9576712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "八德區和平路與大忠街(重慶街)",
+        "direction": "和平路上(往介壽路方向)",
+        "function": "闖紅燈、未依標誌標線號誌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3006423,
+          24.9576281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "八德區和平路與和平路276巷口",
+        "direction": "和平路上(往東勇街方向)",
+        "function": "闖紅燈、未依標誌標線號誌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3060253,
+          24.9575166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "八德區介壽路與廣福路口",
+        "direction": "介壽路上(往和平路與介壽路口方向)_",
+        "function": "闖紅燈、未依標誌標線號誌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2992707,
+          24.9586156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "八德區中華路與高城路口",
+        "direction": "中華路上(往桃園醫院方向)",
+        "function": "闖紅燈、未依標誌標線號誌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2740826,
+          24.9800962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "八德區長興路與霄裡路口",
+        "direction": "長興路上(往新興路方向)",
+        "function": "闖紅燈、未依標誌標線號誌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2641865,
+          24.933398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "八德區介壽路二段與興豐路口",
+        "direction": "介壽路上(往民權街方向)",
+        "function": "闖紅燈、未依標誌標線號誌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.29884,
+          24.93217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "八德區廣興路與新興路口",
+        "direction": "廣興路上(往廣興派出所方向)",
+        "function": "闖紅燈、未依標誌標線號誌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2838075,
+          24.9482783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "八德區興豐路與中山路口",
+        "direction": "興豐路上(往八德國小方向)",
+        "function": "闖紅燈、未依標誌標線號誌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.284469,
+          24.9291599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "八德區介壽路一段與國2橋下便道",
+        "direction": "介壽路上(往南)",
+        "function": "闖紅燈、未依標誌標線號誌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3004256,
+          24.9646162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "八德區中華路與茄苳路口",
+        "direction": "茄苳路上(往中華路方向)",
+        "function": "闖紅燈、未依標誌標線號誌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2740826,
+          24.9800962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "八德區長興路與長興二路口",
+        "direction": "長興路上(往建德路方向)",
+        "function": "闖紅燈、未依標誌標線號誌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2797021,
+          24.9309501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "龍潭區大昌路二段與五福街口",
+        "direction": "大昌路二段上(往北)",
+        "function": "闖紅燈、未依標誌標線號誌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2225156,
+          24.8650061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "龍潭區大昌路一段、福龍路口",
+        "direction": "大昌路上(往大昌路一段75巷方向)",
+        "function": "闖紅燈、未依標誌標線號誌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2053963,
+          24.8444927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "龍潭區大昌路二段、健行路口",
+        "direction": "大昌路上(往南)",
+        "function": "闖紅燈、未依標誌標線號誌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2229632,
+          24.8628989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "龍潭區大昌路二段、中正路口",
+        "direction": "中正路上(往南)",
+        "function": "闖紅燈、未依標誌標線號誌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2229632,
+          24.8628989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "龍潭區中原路二段、高原路",
+        "direction": "中原路二段上(往高原路)",
+        "function": "闖紅燈、未依標誌標線號誌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1927647,
+          24.8297553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "龍潭區中興路與成功路口",
+        "direction": "中興路上(往大溪方向)",
+        "function": "闖紅燈、未依標誌標線號誌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2320212,
+          24.8734402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "龍潭區大昌路二段與北龍路口(中興路)",
+        "direction": "中興路上(往北龍路方向)",
+        "function": "闖紅燈、未依標誌標線號誌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2173881,
+          24.8680014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "龍潭區聖亭、龍元、神龍、北龍路口",
+        "direction": "神龍路上(往該路口方向)",
+        "function": "闖紅燈、未依標誌標線號誌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2053963,
+          24.8444927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "蘆竹區中正路與南山路一段路口",
+        "direction": "南山路一段上(往中正路方向)",
+        "function": "闖紅燈、未依標誌標線號誌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.291202,
+          25.0488827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "蘆竹區南山路一段、仁愛路一段路口",
+        "direction": "南山路一段上(往北)",
+        "function": "闖紅燈、未依標誌標線號誌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2923667,
+          25.0518632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "蘆竹區南山路一段、南崁路口",
+        "direction": "南山路一段上(往中正路方向)",
+        "function": "闖紅燈、未依標誌標線號誌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2920843,
+          25.049751
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "蘆竹區中正路、南竹路一段",
+        "direction": "中正路上(往台茂放向)",
+        "function": "闖紅燈、未依標誌標線號誌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2920684,
+          25.0472785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "蘆竹區南山路一段與六福路(長榮路)路口",
+        "direction": "六福路上(往長榮路方向)",
+        "function": "闖紅燈、未依標誌標線號誌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2892984,
+          25.0574963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "蘆竹區南青路與大竹北路",
+        "direction": "大竹北路上(往大竹南路方向)",
+        "function": "闖紅燈、未依標誌標線號誌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2420064,
+          25.0393843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "蘆竹區文中路一段與龍壽街一段路口",
+        "direction": "文中路一段上(往中壢方向)",
+        "function": "闖紅燈、未依標誌標線號誌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2673114,
+          24.9912776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "蘆竹區中正北路、南竹路二段",
+        "direction": "南竹路二段上(往大竹方向)",
+        "function": "闖紅燈、未依標誌標線號誌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2827269,
+          25.0386133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "蘆竹區南青路、富國路三段",
+        "direction": "富國路三段上(往南)",
+        "function": "闖紅燈、未依標誌標線號誌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.268681,
+          25.0564148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "蘆竹區南竹路三段與富國路一段",
+        "direction": "南竹路三段上(往大竹方向)",
+        "function": "闖紅燈、未依標誌標線號誌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2720092,
+          25.032369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "蘆竹區富國路二段與富昌街口",
+        "direction": "富國路二段上(往北)",
+        "function": "闖紅燈、未依標誌標線號誌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2668494,
+          25.0506292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "中壢區高鐵北路一段5號(桃園高鐵站)",
+        "direction": "一、八號出口接送區",
+        "function": "違規(臨時)停車"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2140636,
+          25.01374
+        ]
+      }
+    }
+  ]
+}

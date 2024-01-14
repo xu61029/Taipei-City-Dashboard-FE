@@ -5162,7 +5162,7 @@
 		},
 		"165": {
 			"id": 165,
-			"index": "AAutomatic_detection_photo_system",
+			"index": "Automatic_detection_photo_system",
 			"map_config": [
 				{
 					"index": "Automatic_detection_photo_system_view",
@@ -5185,15 +5185,15 @@
 						},
 						{
 							"key": "function",
-							"name": "測速結果"
+							"name": "事故"
 						}
 					],
 					"type": "symbol",
-					"icon": "bus",
-					"title": "公車站"
+					"icon": "metro",
+					"title": "自動偵測照相系統"
 				}
 			],
-			"name": "公車站",
+			"name": "自動偵測照相系統",
 			"chart_config": {
 				"types": ["MapLegend"]
 			},
@@ -5201,7 +5201,1265 @@
 				{
 					"type": "symbol",
 					"color": null,
-					"name": "公車站",
+					"name": "自動偵測照相系統",
+					"value": null,
+					"icon": "metro"
+				}
+			],
+			"source": "交通局",
+			"time_from": null,
+			"time_to": null,
+			"update_freq": null,
+			"update_freq_unit": null,
+			"contributors": ["tuic"]
+		},
+		"166": {
+			"id": 166,
+			"index": "T1_1",
+			"history_data": false,
+			"chart_config": {
+				"color": [
+					"#184e77",
+					"#1e6091",
+					"#1e6091",
+					"#168aad",
+					"#34a0a4",
+					"#52b69a",
+					"#76c893",
+					"#99d98c",
+					"#b5e48c",
+					"#d9ed92"
+				],
+				"types": ["TreemapChart"],
+				"unit": "件"
+			},
+			"name": "道路交通事故原因統計(件數)",
+			"source": "交通局",
+			"time_from": null,
+			"time_to": null,
+			"short_desc": "顯示桃園區道路交通事故原因的件數統計",
+			"long_desc": "顯示桃園區道路交通事故原因的件數統計，資料來源為交通局，不定期更新。",
+			"use_case": "本組件統計112年度桃園區道路交通發生事故的件數，藉此呈現數量分布。",
+			"links": [""],
+			"tags": [],
+			"contributors": ["tuic"]
+		},
+		"167": {
+			"id": 167,
+			"index": "T2_1",
+			"history_data": false,
+			"chart_config": {
+				"color": [
+					"#184e77",
+					"#1e6091",
+					"#1e6091",
+					"#168aad",
+					"#34a0a4",
+					"#52b69a",
+					"#76c893",
+					"#99d98c",
+					"#b5e48c",
+					"#d9ed92"
+				],
+				"types": ["TreemapChart"],
+				"unit": "件"
+			},
+			"name": "道路交通事故原因統計(件數)",
+			"source": "交通局",
+			"time_from": null,
+			"time_to": null,
+			"short_desc": "顯示中壢區道路交通事故原因的件數統計",
+			"long_desc": "顯示中壢區道路交通事故原因的件數統計，資料來源為交通局，不定期更新。",
+			"use_case": "本組件統計112年度中壢區道路交通發生事故的件數，藉此呈現數量分布。",
+			"links": [""],
+			"tags": [],
+			"contributors": ["tuic"]
+		},
+		"168": {
+			"id": 168,
+			"index": "T3_1",
+			"history_data": false,
+			"chart_config": {
+				"color": [
+					"#184e77",
+					"#1e6091",
+					"#1e6091",
+					"#168aad",
+					"#34a0a4",
+					"#52b69a",
+					"#76c893",
+					"#99d98c",
+					"#b5e48c",
+					"#d9ed92"
+				],
+				"types": ["TreemapChart"],
+				"unit": "件"
+			},
+			"name": "道路交通事故原因統計(件數)",
+			"source": "交通局",
+			"time_from": null,
+			"time_to": null,
+			"short_desc": "顯示楊梅區道路交通事故原因的件數統計",
+			"long_desc": "顯示楊梅區道路交通事故原因的件數統計，資料來源為交通局，不定期更新。",
+			"use_case": "本組件統計112年度楊梅區道路交通發生事故的件數，藉此呈現數量分布。",
+			"links": [""],
+			"tags": [],
+			"contributors": ["tuic"]
+		},
+		"169": {
+			"id": 169,
+			"index": "T4_1",
+			"history_data": false,
+			"chart_config": {
+				"color": [
+					"#184e77",
+					"#1e6091",
+					"#1e6091",
+					"#168aad",
+					"#34a0a4",
+					"#52b69a",
+					"#76c893",
+					"#99d98c",
+					"#b5e48c",
+					"#d9ed92"
+				],
+				"types": ["TreemapChart"],
+				"unit": "件"
+			},
+			"name": "道路交通事故原因統計(件數)",
+			"source": "交通局",
+			"time_from": null,
+			"time_to": null,
+			"short_desc": "顯示大溪區道路交通事故原因的件數統計",
+			"long_desc": "顯示大溪區道路交通事故原因的件數統計，資料來源為交通局，不定期更新。",
+			"use_case": "本組件統計112年度大溪區道路交通發生事故的件數，藉此呈現數量分布。",
+			"links": [""],
+			"tags": [],
+			"contributors": ["tuic"]
+		},
+		"170": {
+			"id": 170,
+			"index": "T5_1",
+			"history_data": false,
+			"chart_config": {
+				"color": [
+					"#184e77",
+					"#1e6091",
+					"#1e6091",
+					"#168aad",
+					"#34a0a4",
+					"#52b69a",
+					"#76c893",
+					"#99d98c",
+					"#b5e48c",
+					"#d9ed92"
+				],
+				"types": ["TreemapChart"],
+				"unit": "件"
+			},
+			"name": "道路交通事故原因統計(件數)",
+			"source": "交通局",
+			"time_from": null,
+			"time_to": null,
+			"short_desc": "顯示蘆竹區道路交通事故原因的件數統計",
+			"long_desc": "顯示蘆竹區道路交通事故原因的件數統計，資料來源為交通局，不定期更新。",
+			"use_case": "本組件統計112年度蘆竹區道路交通發生事故的件數，藉此呈現數量分布。",
+			"links": [""],
+			"tags": [],
+			"contributors": ["tuic"]
+		},
+		"171": {
+			"id": 171,
+			"index": "T6_1",
+			"history_data": false,
+			"chart_config": {
+				"color": [
+					"#184e77",
+					"#1e6091",
+					"#1e6091",
+					"#168aad",
+					"#34a0a4",
+					"#52b69a",
+					"#76c893",
+					"#99d98c",
+					"#b5e48c",
+					"#d9ed92"
+				],
+				"types": ["TreemapChart"],
+				"unit": "件"
+			},
+			"name": "道路交通事故原因統計(件數)",
+			"source": "交通局",
+			"time_from": null,
+			"time_to": null,
+			"short_desc": "顯示大園區道路交通事故原因的件數統計",
+			"long_desc": "顯示大園區道路交通事故原因的件數統計，資料來源為交通局，不定期更新。",
+			"use_case": "本組件統計112年度大園區道路交通發生事故的件數，藉此呈現數量分布。",
+			"links": [""],
+			"tags": [],
+			"contributors": ["tuic"]
+		},
+		"172": {
+			"id": 172,
+			"index": "T7_1",
+			"history_data": false,
+			"chart_config": {
+				"color": [
+					"#184e77",
+					"#1e6091",
+					"#1e6091",
+					"#168aad",
+					"#34a0a4",
+					"#52b69a",
+					"#76c893",
+					"#99d98c",
+					"#b5e48c",
+					"#d9ed92"
+				],
+				"types": ["TreemapChart"],
+				"unit": "件"
+			},
+			"name": "道路交通事故原因統計(件數)",
+			"source": "交通局",
+			"time_from": null,
+			"time_to": null,
+			"short_desc": "顯示龜山區道路交通事故原因的件數統計",
+			"long_desc": "顯示龜山區道路交通事故原因的件數統計，資料來源為交通局，不定期更新。",
+			"use_case": "本組件統計112年度龜山區道路交通發生事故的件數，藉此呈現數量分布。",
+			"links": [""],
+			"tags": [],
+			"contributors": ["tuic"]
+		},
+		"173": {
+			"id": 173,
+			"index": "T8_1",
+			"history_data": false,
+			"chart_config": {
+				"color": [
+					"#184e77",
+					"#1e6091",
+					"#1e6091",
+					"#168aad",
+					"#34a0a4",
+					"#52b69a",
+					"#76c893",
+					"#99d98c",
+					"#b5e48c",
+					"#d9ed92"
+				],
+				"types": ["TreemapChart"],
+				"unit": "件"
+			},
+			"name": "道路交通事故原因統計(件數)",
+			"source": "交通局",
+			"time_from": null,
+			"time_to": null,
+			"short_desc": "顯示八德區道路交通事故原因的件數統計",
+			"long_desc": "顯示八德區道路交通事故原因的件數統計，資料來源為交通局，不定期更新。",
+			"use_case": "本組件統計112年度八德區道路交通發生事故的件數，藉此呈現數量分布。",
+			"links": [""],
+			"tags": [],
+			"contributors": ["tuic"]
+		},
+		"174": {
+			"id": 174,
+			"index": "T9_1",
+			"history_data": false,
+			"chart_config": {
+				"color": [
+					"#184e77",
+					"#1e6091",
+					"#1e6091",
+					"#168aad",
+					"#34a0a4",
+					"#52b69a",
+					"#76c893",
+					"#99d98c",
+					"#b5e48c",
+					"#d9ed92"
+				],
+				"types": ["TreemapChart"],
+				"unit": "件"
+			},
+			"name": "道路交通事故原因統計(件數)",
+			"source": "交通局",
+			"time_from": null,
+			"time_to": null,
+			"short_desc": "顯示龍潭區道路交通事故原因的件數統計",
+			"long_desc": "顯示龍潭區道路交通事故原因的件數統計，資料來源為交通局，不定期更新。",
+			"use_case": "本組件統計112年度龍潭區道路交通發生事故的件數，藉此呈現數量分布。",
+			"links": [""],
+			"tags": [],
+			"contributors": ["tuic"]
+		},
+		"175": {
+			"id": 175,
+			"index": "T10_1",
+			"history_data": false,
+			"chart_config": {
+				"color": [
+					"#184e77",
+					"#1e6091",
+					"#1e6091",
+					"#168aad",
+					"#34a0a4",
+					"#52b69a",
+					"#76c893",
+					"#99d98c",
+					"#b5e48c",
+					"#d9ed92"
+				],
+				"types": ["TreemapChart"],
+				"unit": "件"
+			},
+			"name": "道路交通事故原因統計(件數)",
+			"source": "交通局",
+			"time_from": null,
+			"time_to": null,
+			"short_desc": "顯示平鎮區道路交通事故原因的件數統計",
+			"long_desc": "顯示平鎮區道路交通事故原因的件數統計，資料來源為交通局，不定期更新。",
+			"use_case": "本組件統計112年度平鎮區道路交通發生事故的件數，藉此呈現數量分布。",
+			"links": [""],
+			"tags": [],
+			"contributors": ["tuic"]
+		},
+		"176": {
+			"id": 176,
+			"index": "T1_2",
+			"history_data": false,
+			"chart_config": {
+				"color": [
+					"#a2d2ff",
+					"#bde0fe",
+					"#ffafcc",
+					"#ffc8dd",
+					"#cdb4db"
+				],
+				"types": ["DonutChart"],
+				"unit": "人"
+			},
+			"name": "道路交通事故原因統計(傷數)",
+			"source": "交通局",
+			"time_from": null,
+			"time_to": null,
+			"short_desc": "顯示桃園區道路交通事故原因的傷數統計",
+			"long_desc": "顯示桃園區道路交通事故原因的傷數統計，資料來源為交通局，不定期更新。",
+			"use_case": "本組件統計112年度桃園區道路交通發生事故的受傷人數，藉此呈現數量分布。",
+			"links": [""],
+			"tags": [],
+			"contributors": ["tuic"]
+		},
+		"177": {
+			"id": 177,
+			"index": "T2_2",
+			"history_data": false,
+			"chart_config": {
+				"color": [
+					"#a2d2ff",
+					"#bde0fe",
+					"#ffafcc",
+					"#ffc8dd",
+					"#cdb4db"
+				],
+				"types": ["DonutChart"],
+				"unit": "人"
+			},
+			"name": "道路交通事故原因統計(傷數)",
+			"source": "交通局",
+			"time_from": null,
+			"time_to": null,
+			"short_desc": "顯示中壢區道路交通事故原因的傷數統計",
+			"long_desc": "顯示中壢區道路交通事故原因的傷數統計，資料來源為交通局，不定期更新。",
+			"use_case": "本組件統計112年度中壢區道路交通發生事故的受傷人數，藉此呈現數量分布。",
+			"links": [""],
+			"tags": [],
+			"contributors": ["tuic"]
+		},
+		"178": {
+			"id": 178,
+			"index": "T3_2",
+			"history_data": false,
+			"chart_config": {
+				"color": [
+					"#a2d2ff",
+					"#bde0fe",
+					"#ffafcc",
+					"#ffc8dd",
+					"#cdb4db"
+				],
+				"types": ["DonutChart"],
+				"unit": "人"
+			},
+			"name": "道路交通事故原因統計(傷數)",
+			"source": "交通局",
+			"time_from": null,
+			"time_to": null,
+			"short_desc": "顯示楊梅區道路交通事故原因的傷數統計",
+			"long_desc": "顯示楊梅區道路交通事故原因的傷數統計，資料來源為交通局，不定期更新。",
+			"use_case": "本組件統計112年度楊梅區道路交通發生事故的受傷人數，藉此呈現數量分布。",
+			"links": [""],
+			"tags": [],
+			"contributors": ["tuic"]
+		},
+		"179": {
+			"id": 179,
+			"index": "T4_2",
+			"history_data": false,
+			"chart_config": {
+				"color": [
+					"#a2d2ff",
+					"#bde0fe",
+					"#ffafcc",
+					"#ffc8dd",
+					"#cdb4db"
+				],
+				"types": ["DonutChart"],
+				"unit": "人"
+			},
+			"name": "道路交通事故原因統計(傷數)",
+			"source": "交通局",
+			"time_from": null,
+			"time_to": null,
+			"short_desc": "顯示大溪區道路交通事故原因的傷數統計",
+			"long_desc": "顯示大溪區道路交通事故原因的傷數統計，資料來源為交通局，不定期更新。",
+			"use_case": "本組件統計112年度大溪區道路交通發生事故的受傷人數，藉此呈現數量分布。",
+			"links": [""],
+			"tags": [],
+			"contributors": ["tuic"]
+		},
+		"180": {
+			"id": 180,
+			"index": "T5_2",
+			"history_data": false,
+			"chart_config": {
+				"color": [
+					"#a2d2ff",
+					"#bde0fe",
+					"#ffafcc",
+					"#ffc8dd",
+					"#cdb4db"
+				],
+				"types": ["DonutChart"],
+				"unit": "人"
+			},
+			"name": "道路交通事故原因統計(傷數)",
+			"source": "交通局",
+			"time_from": null,
+			"time_to": null,
+			"short_desc": "顯示蘆竹區道路交通事故原因的傷數統計",
+			"long_desc": "顯示蘆竹區道路交通事故原因的傷數統計，資料來源為交通局，不定期更新。",
+			"use_case": "本組件統計112年度蘆竹區道路交通發生事故的受傷人數，藉此呈現數量分布。",
+			"links": [""],
+			"tags": [],
+			"contributors": ["tuic"]
+		},
+		"181": {
+			"id": 181,
+			"index": "T6_2",
+			"history_data": false,
+			"chart_config": {
+				"color": [
+					"#a2d2ff",
+					"#bde0fe",
+					"#ffafcc",
+					"#ffc8dd",
+					"#cdb4db"
+				],
+				"types": ["DonutChart"],
+				"unit": "人"
+			},
+			"name": "道路交通事故原因統計(傷數)",
+			"source": "交通局",
+			"time_from": null,
+			"time_to": null,
+			"short_desc": "顯示大園區道路交通事故原因的傷數統計",
+			"long_desc": "顯示大園區道路交通事故原因的傷數統計，資料來源為交通局，不定期更新。",
+			"use_case": "本組件統計112年度大園區道路交通發生事故的受傷人數，藉此呈現數量分布。",
+			"links": [""],
+			"tags": [],
+			"contributors": ["tuic"]
+		},
+		"182": {
+			"id": 182,
+			"index": "T7_2",
+			"history_data": false,
+			"chart_config": {
+				"color": [
+					"#a2d2ff",
+					"#bde0fe",
+					"#ffafcc",
+					"#ffc8dd",
+					"#cdb4db"
+				],
+				"types": ["DonutChart"],
+				"unit": "人"
+			},
+			"name": "道路交通事故原因統計(傷數)",
+			"source": "交通局",
+			"time_from": null,
+			"time_to": null,
+			"short_desc": "顯示龜山區道路交通事故原因的傷數統計",
+			"long_desc": "顯示龜山區道路交通事故原因的傷數統計，資料來源為交通局，不定期更新。",
+			"use_case": "本組件統計112年度龜山區道路交通發生事故的受傷人數，藉此呈現數量分布。",
+			"links": [""],
+			"tags": [],
+			"contributors": ["tuic"]
+		},
+		"183": {
+			"id": 183,
+			"index": "T8_2",
+			"history_data": false,
+			"chart_config": {
+				"color": [
+					"#a2d2ff",
+					"#bde0fe",
+					"#ffafcc",
+					"#ffc8dd",
+					"#cdb4db"
+				],
+				"types": ["DonutChart"],
+				"unit": "人"
+			},
+			"name": "道路交通事故原因統計(傷數)",
+			"source": "交通局",
+			"time_from": null,
+			"time_to": null,
+			"short_desc": "顯示八德區道路交通事故原因的傷數統計",
+			"long_desc": "顯示八德區道路交通事故原因的傷數統計，資料來源為交通局，不定期更新。",
+			"use_case": "本組件統計112年度八德區道路交通發生事故的受傷人數，藉此呈現數量分布。",
+			"links": [""],
+			"tags": [],
+			"contributors": ["tuic"]
+		},
+		"184": {
+			"id": 184,
+			"index": "T9_2",
+			"history_data": false,
+			"chart_config": {
+				"color": [
+					"#a2d2ff",
+					"#bde0fe",
+					"#ffafcc",
+					"#ffc8dd",
+					"#cdb4db"
+				],
+				"types": ["DonutChart"],
+				"unit": "人"
+			},
+			"name": "道路交通事故原因統計(傷數)",
+			"source": "交通局",
+			"time_from": null,
+			"time_to": null,
+			"short_desc": "顯示龍潭區道路交通事故原因的傷數統計",
+			"long_desc": "顯示龍潭區道路交通事故原因的傷數統計，資料來源為交通局，不定期更新。",
+			"use_case": "本組件統計112年度龍潭區道路交通發生事故的受傷人數，藉此呈現數量分布。",
+			"links": [""],
+			"tags": [],
+			"contributors": ["tuic"]
+		},
+		"185": {
+			"id": 185,
+			"index": "T10_2",
+			"history_data": false,
+			"chart_config": {
+				"color": [
+					"#a2d2ff",
+					"#bde0fe",
+					"#ffafcc",
+					"#ffc8dd",
+					"#cdb4db"
+				],
+				"types": ["DonutChart"],
+				"unit": "人"
+			},
+			"name": "道路交通事故原因統計(傷數)",
+			"source": "交通局",
+			"time_from": null,
+			"time_to": null,
+			"short_desc": "顯示平鎮區道路交通事故原因的傷數統計",
+			"long_desc": "顯示平鎮區道路交通事故原因的傷數統計，資料來源為交通局，不定期更新。",
+			"use_case": "本組件統計112年度平鎮區道路交通發生事故的受傷人數，藉此呈現數量分布。",
+			"links": [""],
+			"tags": [],
+			"contributors": ["tuic"]
+		},
+		"186": {
+			"id": 186,
+			"index": "Tall_3",
+			"history_data": false,
+			"chart_config": {
+				"color": ["#f6511d", "#ffb400", "#00a6ed"],
+				"types": ["TimelineSeparateChart"],
+				"unit": "件"
+			},
+			"name": "道路交通事故肇事時間統計",
+			"source": "交通局",
+			"time_from": "2021-01-01T00:00:00+08:00",
+			"time_to": "2023-12-31T00:00:00+08:00",
+			"update_freq": 1,
+			"update_freq_unit": "year",
+			"short_desc": "顯示近三年全區交通事故各時段的發生件數",
+			"long_desc": "顯示近三年全區交通事故各時段的發生件數，資料來源為交通局，每年更新。",
+			"use_case": "本組件統計110-112年度全區道路交通事故每兩小時的發生件數統計，藉此呈現數量對比。",
+			"links": [""],
+			"tags": [],
+			"contributors": ["tuic"]
+		},
+		"187": {
+			"id": 187,
+			"index": "T1_3",
+			"history_data": false,
+			"chart_config": {
+				"color": ["#f6511d", "#ffb400", "#00a6ed"],
+				"types": ["TimelineSeparateChart"],
+				"unit": "件"
+			},
+			"name": "道路交通事故肇事時間統計",
+			"source": "交通局",
+			"time_from": "2021-01-01T00:00:00+08:00",
+			"time_to": "2023-12-31T00:00:00+08:00",
+			"update_freq": 1,
+			"update_freq_unit": "year",
+			"short_desc": "顯示近三年桃園區交通事故各時段的發生件數",
+			"long_desc": "顯示近三年桃園區交通事故各時段的發生件數，資料來源為交通局，每年更新。",
+			"use_case": "本組件統計110-112年度桃園區道路交通事故每兩小時的發生件數統計，藉此呈現數量對比。",
+			"links": [""],
+			"tags": [],
+			"contributors": ["tuic"]
+		},
+		"188": {
+			"id": 188,
+			"index": "T2_3",
+			"history_data": false,
+			"chart_config": {
+				"color": ["#f6511d", "#ffb400", "#00a6ed"],
+				"types": ["TimelineSeparateChart"],
+				"unit": "件"
+			},
+			"name": "道路交通事故肇事時間統計",
+			"source": "交通局",
+			"time_from": "2021-01-01T00:00:00+08:00",
+			"time_to": "2023-12-31T00:00:00+08:00",
+			"update_freq": 1,
+			"update_freq_unit": "year",
+			"short_desc": "顯示近三年中壢區交通事故各時段的發生件數",
+			"long_desc": "顯示近三年中壢區交通事故各時段的發生件數，資料來源為交通局，每年更新。",
+			"use_case": "本組件統計110-112年度中壢區道路交通事故每兩小時的發生件數統計，藉此呈現數量對比。",
+			"links": [""],
+			"tags": [],
+			"contributors": ["tuic"]
+		},
+		"189": {
+			"id": 189,
+			"index": "T3_3",
+			"history_data": false,
+			"chart_config": {
+				"color": ["#f6511d", "#ffb400", "#00a6ed"],
+				"types": ["TimelineSeparateChart"],
+				"unit": "件"
+			},
+			"name": "道路交通事故肇事時間統計",
+			"source": "交通局",
+			"time_from": "2021-01-01T00:00:00+08:00",
+			"time_to": "2023-12-31T00:00:00+08:00",
+			"update_freq": 1,
+			"update_freq_unit": "year",
+			"short_desc": "顯示近三年楊梅區交通事故各時段的發生件數",
+			"long_desc": "顯示近三年楊梅區交通事故各時段的發生件數，資料來源為交通局，每年更新。",
+			"use_case": "本組件統計110-112年度楊梅區道路交通事故每兩小時的發生件數統計，藉此呈現數量對比。",
+			"links": [""],
+			"tags": [],
+			"contributors": ["tuic"]
+		},
+		"190": {
+			"id": 190,
+			"index": "T4_3",
+			"history_data": false,
+			"chart_config": {
+				"color": ["#f6511d", "#ffb400", "#00a6ed"],
+				"types": ["TimelineSeparateChart"],
+				"unit": "件"
+			},
+			"name": "道路交通事故肇事時間統計",
+			"source": "交通局",
+			"time_from": "2021-01-01T00:00:00+08:00",
+			"time_to": "2023-12-31T00:00:00+08:00",
+			"update_freq": 1,
+			"update_freq_unit": "year",
+			"short_desc": "顯示近三年大溪區交通事故各時段的發生件數",
+			"long_desc": "顯示近三年大溪區交通事故各時段的發生件數，資料來源為交通局，每年更新。",
+			"use_case": "本組件統計110-112年度大溪區道路交通事故每兩小時的發生件數統計，藉此呈現數量對比。",
+			"links": [""],
+			"tags": [],
+			"contributors": ["tuic"]
+		},
+		"191": {
+			"id": 191,
+			"index": "T5_3",
+			"history_data": false,
+			"chart_config": {
+				"color": ["#f6511d", "#ffb400", "#00a6ed"],
+				"types": ["TimelineSeparateChart"],
+				"unit": "件"
+			},
+			"name": "道路交通事故肇事時間統計",
+			"source": "交通局",
+			"time_from": "2021-01-01T00:00:00+08:00",
+			"time_to": "2023-12-31T00:00:00+08:00",
+			"update_freq": 1,
+			"update_freq_unit": "year",
+			"short_desc": "顯示近三年蘆竹區交通事故各時段的發生件數",
+			"long_desc": "顯示近三年蘆竹區交通事故各時段的發生件數，資料來源為交通局，每年更新。",
+			"use_case": "本組件統計110-112年度蘆竹區道路交通事故每兩小時的發生件數統計，藉此呈現數量對比。",
+			"links": [""],
+			"tags": [],
+			"contributors": ["tuic"]
+		},
+		"192": {
+			"id": 192,
+			"index": "T6_3",
+			"history_data": false,
+			"chart_config": {
+				"color": ["#f6511d", "#ffb400", "#00a6ed"],
+				"types": ["TimelineSeparateChart"],
+				"unit": "件"
+			},
+			"name": "道路交通事故肇事時間統計",
+			"source": "交通局",
+			"time_from": "2021-01-01T00:00:00+08:00",
+			"time_to": "2023-12-31T00:00:00+08:00",
+			"update_freq": 1,
+			"update_freq_unit": "year",
+			"short_desc": "顯示近三年大園區交通事故各時段的發生件數",
+			"long_desc": "顯示近三年大園區交通事故各時段的發生件數，資料來源為交通局，每年更新。",
+			"use_case": "本組件統計110-112年度大園區道路交通事故每兩小時的發生件數統計，藉此呈現數量對比。",
+			"links": [""],
+			"tags": [],
+			"contributors": ["tuic"]
+		},
+		"193": {
+			"id": 193,
+			"index": "T7_3",
+			"history_data": false,
+			"chart_config": {
+				"color": ["#f6511d", "#ffb400", "#00a6ed"],
+				"types": ["TimelineSeparateChart"],
+				"unit": "件"
+			},
+			"name": "道路交通事故肇事時間統計",
+			"source": "交通局",
+			"time_from": "2021-01-01T00:00:00+08:00",
+			"time_to": "2023-12-31T00:00:00+08:00",
+			"update_freq": 1,
+			"update_freq_unit": "year",
+			"short_desc": "顯示近三年龜山區交通事故各時段的發生件數",
+			"long_desc": "顯示近三年龜山區交通事故各時段的發生件數，資料來源為交通局，每年更新。",
+			"use_case": "本組件統計110-112年度龜山區道路交通事故每兩小時的發生件數統計，藉此呈現數量對比。",
+			"links": [""],
+			"tags": [],
+			"contributors": ["tuic"]
+		},
+		"194": {
+			"id": 194,
+			"index": "T8_3",
+			"history_data": false,
+			"chart_config": {
+				"color": ["#f6511d", "#ffb400", "#00a6ed"],
+				"types": ["TimelineSeparateChart"],
+				"unit": "件"
+			},
+			"name": "道路交通事故肇事時間統計",
+			"source": "交通局",
+			"time_from": "2021-01-01T00:00:00+08:00",
+			"time_to": "2023-12-31T00:00:00+08:00",
+			"update_freq": 1,
+			"update_freq_unit": "year",
+			"short_desc": "顯示近三年八德區交通事故各時段的發生件數",
+			"long_desc": "顯示近三年八德區交通事故各時段的發生件數，資料來源為交通局，每年更新。",
+			"use_case": "本組件統計110-112年度八德區道路交通事故每兩小時的發生件數統計，藉此呈現數量對比。",
+			"links": [""],
+			"tags": [],
+			"contributors": ["tuic"]
+		},
+		"195": {
+			"id": 195,
+			"index": "T9_3",
+			"history_data": false,
+			"chart_config": {
+				"color": ["#f6511d", "#ffb400", "#00a6ed"],
+				"types": ["TimelineSeparateChart"],
+				"unit": "件"
+			},
+			"name": "道路交通事故肇事時間統計",
+			"source": "交通局",
+			"time_from": "2021-01-01T00:00:00+08:00",
+			"time_to": "2023-12-31T00:00:00+08:00",
+			"update_freq": 1,
+			"update_freq_unit": "year",
+			"short_desc": "顯示近三年龍潭區交通事故各時段的發生件數",
+			"long_desc": "顯示近三年龍潭區交通事故各時段的發生件數，資料來源為交通局，每年更新。",
+			"use_case": "本組件統計110-112年度龍潭區道路交通事故每兩小時的發生件數統計，藉此呈現數量對比。",
+			"links": [""],
+			"tags": [],
+			"contributors": ["tuic"]
+		},
+		"196": {
+			"id": 196,
+			"index": "T10_3",
+			"history_data": false,
+			"chart_config": {
+				"color": ["#f6511d", "#ffb400", "#00a6ed"],
+				"types": ["TimelineSeparateChart"],
+				"unit": "件"
+			},
+			"name": "道路交通事故肇事時間統計",
+			"source": "交通局",
+			"time_from": "2021-01-01T00:00:00+08:00",
+			"time_to": "2023-12-31T00:00:00+08:00",
+			"update_freq": 1,
+			"update_freq_unit": "year",
+			"short_desc": "顯示近三年平鎮區交通事故各時段的發生件數。",
+			"long_desc": "顯示近三年平鎮區交通事故各時段的發生件數，資料來源為交通局，每年更新。",
+			"use_case": "本組件統計110-112年度平鎮區道路交通事故每兩小時的發生件數統計，藉此呈現數量對比。",
+			"links": [""],
+			"tags": [],
+			"contributors": ["tuic"]
+		},
+		"197": {
+			"id": 197,
+			"index": "Tall_4",
+			"chart_config": {
+				"color": ["#ffbf69", "#cbf3f0"],
+				"types": ["ColumnChart", "BarPercentChart"],
+				"unit": "件",
+				"categories": ["110年", "111年", "112年"]
+			},
+			"name": "A1及A2類道路交通事故統計",
+			"source": "交通局",
+			"time_from": "2021-01-01T00:00:00+08:00",
+			"time_to": "2023-12-31T00:00:00+08:00",
+			"update_freq": 1,
+			"update_freq_unit": "year",
+			"short_desc": "顯示近三年全區交通事故A1及A2類別死傷總數。",
+			"long_desc": "顯示近三年全區交通事故A1及A2類別死傷總數，資料來源為交通局，每年更新。",
+			"use_case": "本組件統計110-112年度全區道路交通事故A1及A2類別死傷總數，藉此呈現數量對比。",
+			"tags": [],
+			"links": [""],
+			"contributors": ["tuic"]
+		},
+		"198": {
+			"id": 198,
+			"index": "T1_4",
+			"chart_config": {
+				"color": ["#ffbf69", "#cbf3f0"],
+				"types": ["ColumnChart", "BarPercentChart"],
+				"unit": "件",
+				"categories": ["110年", "111年", "112年"]
+			},
+			"name": "A1及A2類道路交通事故統計",
+			"source": "交通局",
+			"time_from": "2021-01-01T00:00:00+08:00",
+			"time_to": "2023-12-31T00:00:00+08:00",
+			"update_freq": 1,
+			"update_freq_unit": "year",
+			"short_desc": "顯示近三年桃園區交通事故A1及A2類別死傷總數。",
+			"long_desc": "顯示近三年桃園區交通事故A1及A2類別死傷總數，資料來源為交通局，每年更新。",
+			"use_case": "本組件統計110-112年度桃園區道路交通事故A1及A2類別死傷總數，藉此呈現數量對比。",
+			"tags": [],
+			"links": [""],
+			"contributors": ["tuic"]
+		},
+		"199": {
+			"id": 199,
+			"index": "T2_4",
+			"chart_config": {
+				"color": ["#ffbf69", "#cbf3f0"],
+				"types": ["ColumnChart", "BarPercentChart"],
+				"unit": "件",
+				"categories": ["110年", "111年", "112年"]
+			},
+			"name": "A1及A2類道路交通事故統計",
+			"source": "交通局",
+			"time_from": "2021-01-01T00:00:00+08:00",
+			"time_to": "2023-12-31T00:00:00+08:00",
+			"update_freq": 1,
+			"update_freq_unit": "year",
+			"short_desc": "顯示近三年中壢區交通事故A1及A2類別死傷總數。",
+			"long_desc": "顯示近三年中壢區交通事故A1及A2類別死傷總數，資料來源為交通局，每年更新。",
+			"use_case": "本組件統計110-112年度中壢區道路交通事故A1及A2類別死傷總數，藉此呈現數量對比。",
+			"tags": [],
+			"links": [""],
+			"contributors": ["tuic"]
+		},
+		"200": {
+			"id": 200,
+			"index": "T3_4",
+			"chart_config": {
+				"color": ["#ffbf69", "#cbf3f0"],
+				"types": ["ColumnChart", "BarPercentChart"],
+				"unit": "件",
+				"categories": ["110年", "111年", "112年"]
+			},
+			"name": "A1及A2類道路交通事故統計",
+			"source": "交通局",
+			"time_from": "2021-01-01T00:00:00+08:00",
+			"time_to": "2023-12-31T00:00:00+08:00",
+			"update_freq": 1,
+			"update_freq_unit": "year",
+			"short_desc": "顯示近三年楊梅區交通事故A1及A2類別死傷總數。",
+			"long_desc": "顯示近三年楊梅區交通事故A1及A2類別死傷總數，資料來源為交通局，每年更新。",
+			"use_case": "本組件統計110-112年度楊梅區道路交通事故A1及A2類別死傷總數，藉此呈現數量對比。",
+			"tags": [],
+			"links": [""],
+			"contributors": ["tuic"]
+		},
+		"201": {
+			"id": 201,
+			"index": "T4_4",
+			"chart_config": {
+				"color": ["#ffbf69", "#cbf3f0"],
+				"types": ["ColumnChart", "BarPercentChart"],
+				"unit": "件",
+				"categories": ["110年", "111年", "112年"]
+			},
+			"name": "A1及A2類道路交通事故統計",
+			"source": "交通局",
+			"time_from": "2021-01-01T00:00:00+08:00",
+			"time_to": "2023-12-31T00:00:00+08:00",
+			"update_freq": 1,
+			"update_freq_unit": "year",
+			"short_desc": "顯示近三年大溪區交通事故A1及A2類別死傷總數。",
+			"long_desc": "顯示近三年大溪區交通事故A1及A2類別死傷總數，資料來源為交通局，每年更新。",
+			"use_case": "本組件統計110-112年度大溪區道路交通事故A1及A2類別死傷總數，藉此呈現數量對比。",
+			"tags": [],
+			"links": [""],
+			"contributors": ["tuic"]
+		},
+		"202": {
+			"id": 202,
+			"index": "T5_4",
+			"chart_config": {
+				"color": ["#ffbf69", "#cbf3f0"],
+				"types": ["ColumnChart", "BarPercentChart"],
+				"unit": "件",
+				"categories": ["110年", "111年", "112年"]
+			},
+			"name": "A1及A2類道路交通事故統計",
+			"source": "交通局",
+			"time_from": "2021-01-01T00:00:00+08:00",
+			"time_to": "2023-12-31T00:00:00+08:00",
+			"update_freq": 1,
+			"update_freq_unit": "year",
+			"short_desc": "顯示近三年蘆竹區交通事故A1及A2類別死傷總數。",
+			"long_desc": "顯示近三年蘆竹區交通事故A1及A2類別死傷總數，資料來源為交通局，每年更新。",
+			"use_case": "本組件統計110-112年度蘆竹區道路交通事故A1及A2類別死傷總數，藉此呈現數量對比。",
+			"tags": [],
+			"links": [""],
+			"contributors": ["tuic"]
+		},
+		"203": {
+			"id": 203,
+			"index": "T6_4",
+			"chart_config": {
+				"color": ["#ffbf69", "#cbf3f0"],
+				"types": ["ColumnChart", "BarPercentChart"],
+				"unit": "件",
+				"categories": ["110年", "111年", "112年"]
+			},
+			"name": "A1及A2類道路交通事故統計",
+			"source": "交通局",
+			"time_from": "2021-01-01T00:00:00+08:00",
+			"time_to": "2023-12-31T00:00:00+08:00",
+			"update_freq": 1,
+			"update_freq_unit": "year",
+			"short_desc": "顯示近三年大園區交通事故A1及A2類別死傷總數。",
+			"long_desc": "顯示近三年大園區交通事故A1及A2類別死傷總數，資料來源為交通局，每年更新。",
+			"use_case": "本組件統計110-112年度大園區道路交通事故A1及A2類別死傷總數，藉此呈現數量對比。",
+			"tags": [],
+			"links": [""],
+			"contributors": ["tuic"]
+		},
+		"204": {
+			"id": 204,
+			"index": "T7_4",
+			"chart_config": {
+				"color": ["#ffbf69", "#cbf3f0"],
+				"types": ["ColumnChart", "BarPercentChart"],
+				"unit": "件",
+				"categories": ["110年", "111年", "112年"]
+			},
+			"name": "A1及A2類道路交通事故統計",
+			"source": "交通局",
+			"time_from": "2021-01-01T00:00:00+08:00",
+			"time_to": "2023-12-31T00:00:00+08:00",
+			"update_freq": 1,
+			"update_freq_unit": "year",
+			"short_desc": "顯示近三年龜山區交通事故A1及A2類別死傷總數。",
+			"long_desc": "顯示近三年龜山區交通事故A1及A2類別死傷總數，資料來源為交通局，每年更新。",
+			"use_case": "本組件統計110-112年度龜山區道路交通事故A1及A2類別死傷總數，藉此呈現數量對比。",
+			"tags": [],
+			"links": [""],
+			"contributors": ["tuic"]
+		},
+		"205": {
+			"id": 205,
+			"index": "T8_4",
+			"chart_config": {
+				"color": ["#ffbf69", "#cbf3f0"],
+				"types": ["ColumnChart", "BarPercentChart"],
+				"unit": "件",
+				"categories": ["110年", "111年", "112年"]
+			},
+			"name": "A1及A2類道路交通事故統計",
+			"source": "交通局",
+			"time_from": "2021-01-01T00:00:00+08:00",
+			"time_to": "2023-12-31T00:00:00+08:00",
+			"update_freq": 1,
+			"update_freq_unit": "year",
+			"short_desc": "顯示近三年八德區交通事故A1及A2類別死傷總數。",
+			"long_desc": "顯示近三年八德區交通事故A1及A2類別死傷總數，資料來源為交通局，每年更新。",
+			"use_case": "本組件統計110-112年度八德區道路交通事故A1及A2類別死傷總數，藉此呈現數量對比。",
+			"tags": [],
+			"links": [""],
+			"contributors": ["tuic"]
+		},
+		"206": {
+			"id": 206,
+			"index": "T9_4",
+			"chart_config": {
+				"color": ["#ffbf69", "#cbf3f0"],
+				"types": ["ColumnChart", "BarPercentChart"],
+				"unit": "件",
+				"categories": ["110年", "111年", "112年"]
+			},
+			"name": "A1及A2類道路交通事故統計",
+			"source": "交通局",
+			"time_from": "2021-01-01T00:00:00+08:00",
+			"time_to": "2023-12-31T00:00:00+08:00",
+			"update_freq": 1,
+			"update_freq_unit": "year",
+			"short_desc": "顯示近三年龍潭區交通事故A1及A2類別死傷總數。",
+			"long_desc": "顯示近三年龍潭區交通事故A1及A2類別死傷總數，資料來源為交通局，每年更新。",
+			"use_case": "本組件統計110-112年度龍潭區道路交通事故A1及A2類別死傷總數，藉此呈現數量對比。",
+			"tags": [],
+			"links": [""],
+			"contributors": ["tuic"]
+		},
+		"207": {
+			"id": 207,
+			"index": "T10_4",
+			"chart_config": {
+				"color": ["#ffbf69", "#cbf3f0"],
+				"types": ["ColumnChart", "BarPercentChart"],
+				"unit": "件",
+				"categories": ["110年", "111年", "112年"]
+			},
+			"name": "A1及A2類道路交通事故統計",
+			"source": "交通局",
+			"time_from": "2021-01-01T00:00:00+08:00",
+			"time_to": "2023-12-31T00:00:00+08:00",
+			"update_freq": 1,
+			"update_freq_unit": "year",
+			"short_desc": "顯示近三年平鎮區交通事故A1及A2類別死傷總數。",
+			"long_desc": "顯示近三年平鎮區交通事故A1及A2類別死傷總數，資料來源為交通局，每年更新。",
+			"use_case": "本組件統計110-112年度平鎮區道路交通事故A1及A2類別死傷總數，藉此呈現數量對比。",
+			"tags": [],
+			"links": [""],
+			"contributors": ["tuic"]
+		},
+		"208": {
+			"id": 208,
+			"index": "Lease-based_technology_enforcement",
+			"map_config": [
+				{
+					"index": "Lease-based_technology_enforcement_view",
+					"property": [
+						{
+							"key": "location",
+							"name": "地點"
+						},
+						{
+							"key": "direction",
+							"name": "方向"
+						},
+						{
+							"key": "function",
+							"name": "事故"
+						}
+					],
+					"type": "symbol",
+					"icon": "triangle_y",
+					"title": "租賃式科技執法"
+				}
+			],
+			"name": "租賃式科技執法",
+			"chart_config": {
+				"types": ["MapLegend"]
+			},
+			"chart_data": [
+				{
+					"type": "symbol",
+					"color": null,
+					"name": "租賃式科技執法",
+					"value": null,
+					"icon": "triangle_y"
+				}
+			],
+			"source": "交通局",
+			"time_from": null,
+			"time_to": null,
+			"update_freq": null,
+			"update_freq_unit": null,
+			"contributors": ["tuic"]
+		},
+		"209": {
+			"id": 209,
+			"index": "Mobile_speed_measurement",
+			"map_config": [
+				{
+					"index": "Mobile_speed_measurement_view",
+					"property": [
+						{
+							"key": "location",
+							"name": "地點"
+						},
+						{
+							"key": "direction",
+							"name": "方向"
+						},
+						{
+							"key": "speed limit",
+							"name": "速限"
+						},
+						{
+							"key": "district",
+							"name": "區域"
+						},
+						{
+							"key": "function",
+							"name": "事故"
+						}
+					],
+					"type": "symbol",
+					"icon": "triangle_white",
+					"title": "移動式測速"
+				}
+			],
+			"name": "移動式測速",
+			"chart_config": {
+				"types": ["MapLegend"]
+			},
+			"chart_data": [
+				{
+					"type": "symbol",
+					"color": null,
+					"name": "移動式測速",
+					"value": null,
+					"icon": "triangle_white"
+				}
+			],
+			"source": "交通局",
+			"time_from": null,
+			"time_to": null,
+			"update_freq": null,
+			"update_freq_unit": null,
+			"contributors": ["tuic"]
+		},
+		"210": {
+			"id": 210,
+			"index": "Speed_and_red_light_camera_system",
+			"map_config": [
+				{
+					"index": "Speed_and_red_light_camera_system_view",
+					"property": [
+						{
+							"key": "location",
+							"name": "地點"
+						},
+						{
+							"key": "direction",
+							"name": "方向"
+						},
+						{
+							"key": "speed limit",
+							"name": "速限"
+						},
+						{
+							"key": "jurisdiction",
+							"name": "轄區"
+						},
+						{
+							"key": "function",
+							"name": "事故"
+						}
+					],
+					"type": "symbol",
+					"icon": "triangle_green",
+					"title": "測速暨闖紅燈照相設備"
+				}
+			],
+			"name": "測速暨闖紅燈照相設備",
+			"chart_config": {
+				"types": ["MapLegend"]
+			},
+			"chart_data": [
+				{
+					"type": "symbol",
+					"color": null,
+					"name": "測速暨闖紅燈照相設備",
+					"value": null,
+					"icon": "triangle_green"
+				}
+			],
+			"source": "交通局",
+			"time_from": null,
+			"time_to": null,
+			"update_freq": null,
+			"update_freq_unit": null,
+			"contributors": ["tuic"]
+		},
+		"211": {
+			"id": 211,
+			"index": "Multi-functional_technology_enforcement",
+			"map_config": [
+				{
+					"index": "Multi-functional_technology_enforcement_view",
+					"property": [
+						{
+							"key": "location",
+							"name": "地點"
+						},
+						{
+							"key": "direction",
+							"name": "方向"
+						},
+						{
+							"key": "speed limit",
+							"name": "速限"
+						},
+						{
+							"key": "jurisdiction",
+							"name": "轄區"
+						},
+						{
+							"key": "function",
+							"name": "事故"
+						}
+					],
+					"type": "symbol",
+					"icon": "bus",
+					"title": "多功能科技執法"
+				}
+			],
+			"name": "多功能科技執法",
+			"chart_config": {
+				"types": ["MapLegend"]
+			},
+			"chart_data": [
+				{
+					"type": "symbol",
+					"color": null,
+					"name": "多功能科技執法",
 					"value": null,
 					"icon": "bus"
 				}
@@ -5211,6 +6469,1700 @@
 			"time_to": null,
 			"update_freq": null,
 			"update_freq_unit": null,
+			"contributors": ["tuic"]
+		},
+		"212": {
+			"id": 212,
+			"index": "Tall_5",
+			"history_data": null,
+			"map_config": [
+				{
+					"index": "all-a1",
+					"paint": {
+						"circle-color": "#d0f4de",
+						"circle-radius": [
+							"interpolate",
+							["linear"],
+							["zoom"],
+							12,
+							3,
+							15,
+							5,
+							18,
+							7
+						]
+					},
+					"property": [
+						{
+							"key": "date",
+							"name": "發生日期："
+						},
+						{
+							"key": "Time",
+							"name": "發生時間："
+						},
+						{
+							"key": "Unit",
+							"name": "處理單位名稱："
+						},
+						{
+							"key": "Location",
+							"name": "發生地點："
+						},
+						{
+							"key": "Weather",
+							"name": "'天候："
+						},
+						{
+							"key": "Light",
+							"name": "光線："
+						},
+						{
+							"key": "Road Category",
+							"name": "道路類別："
+						},
+						{
+							"key": "speed limit",
+							"name": "速限："
+						},
+						{
+							"key": "Road Type (Main Category)",
+							"name": "主要路種："
+						},
+						{
+							"key": "Road Type (Subcategory)",
+							"name": "次要路種："
+						},
+						{
+							"key": "Accident Location Category",
+							"name": "事故位置類別名稱："
+						},
+						{
+							"key": "Road Condition",
+							"name": "路面狀況："
+						},
+						{
+							"key": "Road Status",
+							"name": "路面狀態："
+						},
+						{
+							"key": "Road Defect",
+							"name": "路面缺陷："
+						},
+						{
+							"key": "Obstacle",
+							"name": "障礙物："
+						},
+						{
+							"key": "Visibility",
+							"name": "視距品質："
+						},
+						{
+							"key": "Signals",
+							"name": "號誌："
+						},
+						{
+							"key": "Dividers",
+							"name": "分隔線："
+						},
+						{
+							"key": "Express Lane or General Lane",
+							"name": "車道種類："
+						},
+						{
+							"key": "Lane Divider",
+							"name": "車道分隔線："
+						},
+						{
+							"key": "Accident Type",
+							"name": "事故類型："
+						},
+						{
+							"key": "Accident Pattern",
+							"name": "事故型態："
+						},
+						{
+							"key": "Cause Analysis",
+							"name": "肇因研判："
+						},
+						{
+							"key": "Primary Cause Analysis",
+							"name": "主要肇因研判："
+						},
+						{
+							"key": "Casualties",
+							"name": "死傷人數："
+						},
+						{
+							"key": "Vehicle Type (Main Category)",
+							"name": "大類別名稱-車種："
+						},
+						{
+							"key": "Vehicle Type (Subcategory)",
+							"name": "次類別名稱-車種："
+						},
+						{
+							"key": "Involved Party - Gender",
+							"name": "當事者性別："
+						},
+						{
+							"key": "Involved Party Age at Incident",
+							"name": "當事者年齡："
+						},
+						{
+							"key": "Protective Equipment",
+							"name": "保護裝備名稱："
+						},
+						{
+							"key": "Mobile/Computer/Other Device",
+							"name": "是否使用3C產品："
+						},
+						{
+							"key": "Involved Party's Action Status",
+							"name": "行為："
+						},
+						{
+							"key": "Initial Vehicle Impact Area (Main Category)",
+							"name": "主要車輛碰撞區域："
+						}
+					],
+					"title": "A1類別道路交通事故原因統計",
+					"type": "circle",
+					"size": "big",
+					"icon": null
+				}
+			],
+			"chart_config": {
+				"color": ["#ffd670"],
+				"types": ["DistrictChart"],
+				"unit": "件"
+			},
+			"name": "A1類別道路交通事故原因統計",
+			"source": "桃園市警察局",
+			"time_from": null,
+			"short_desc": "顯示A1類別道路交通事故原因分布。",
+			"long_desc": "顯示A1類別道路交通事故原因分布，資料來源為桃園市警察局，不定期更新。",
+			"use_case": "呈現A1類別道路交通事故原因分布及其細項類別。",
+			"links": [""],
+			"contributors": ["tuic"]
+		},
+		"213": {
+			"id": 213,
+			"index": "Tall_8",
+			"history_data": null,
+			"map_config": [
+				{
+					"index": "A2_1",
+					"paint": {
+						"circle-color": "#f79256",
+						"circle-radius": [
+							"interpolate",
+							["linear"],
+							["zoom"],
+							12,
+							3,
+							15,
+							5,
+							18,
+							7
+						]
+					},
+					"property": [
+						{
+							"key": "date",
+							"name": "發生日期："
+						},
+						{
+							"key": "Time",
+							"name": "發生時間："
+						},
+						{
+							"key": "Unit",
+							"name": "處理單位名稱："
+						},
+						{
+							"key": "area",
+							"name": "地區："
+						},
+						{
+							"key": "Location",
+							"name": "發生地點："
+						},
+						{
+							"key": "Weather",
+							"name": "'天候："
+						},
+						{
+							"key": "Light",
+							"name": "光線："
+						},
+						{
+							"key": "Road Category",
+							"name": "道路類別："
+						},
+						{
+							"key": "speed limit",
+							"name": "速限："
+						},
+						{
+							"key": "Road Type (Main Category)",
+							"name": "主要路種："
+						},
+						{
+							"key": "Road Type (Subcategory)",
+							"name": "次要路種："
+						},
+						{
+							"key": "Accident Location Category",
+							"name": "事故位置類別名稱："
+						},
+						{
+							"key": "Road Condition",
+							"name": "路面狀況："
+						},
+						{
+							"key": "Road Status",
+							"name": "路面狀態："
+						},
+						{
+							"key": "Road Defect",
+							"name": "路面缺陷："
+						},
+						{
+							"key": "Obstacle",
+							"name": "障礙物："
+						},
+						{
+							"key": "Visibility",
+							"name": "視距品質："
+						},
+						{
+							"key": "Signals",
+							"name": "號誌："
+						},
+						{
+							"key": "Dividers",
+							"name": "分隔線："
+						},
+						{
+							"key": "Express Lane or General Lane",
+							"name": "車道種類："
+						},
+						{
+							"key": "Lane Divider",
+							"name": "車道分隔線："
+						},
+						{
+							"key": "Accident Type",
+							"name": "事故類型："
+						},
+						{
+							"key": "Accident Pattern",
+							"name": "事故型態："
+						},
+						{
+							"key": "Cause Analysis",
+							"name": "肇因研判："
+						},
+						{
+							"key": "Primary Cause Analysis",
+							"name": "主要肇因研判："
+						},
+						{
+							"key": "Casualties",
+							"name": "死傷人數："
+						},
+						{
+							"key": "Vehicle Type (Main Category)",
+							"name": "大類別名稱-車種："
+						},
+						{
+							"key": "Vehicle Type (Subcategory)",
+							"name": "次類別名稱-車種："
+						},
+						{
+							"key": "Involved Party - Gender",
+							"name": "當事者性別："
+						},
+						{
+							"key": "Involved Party Age at Incident",
+							"name": "當事者年齡："
+						},
+						{
+							"key": "Protective Equipment",
+							"name": "保護裝備名稱："
+						},
+						{
+							"key": "Mobile/Computer/Other Device",
+							"name": "是否使用3C產品："
+						},
+						{
+							"key": "Involved Party's Action Status",
+							"name": "行為："
+						},
+						{
+							"key": "Initial Vehicle Impact Area (Main Category)",
+							"name": "主要車輛碰撞區域："
+						}
+					],
+					"title": "A2類別道路交通事故原因統計",
+					"type": "circle",
+					"size": "big",
+					"icon": null
+				},
+				{
+					"index": "A2_2",
+					"paint": {
+						"circle-color": "#fbd1a2",
+						"circle-radius": [
+							"interpolate",
+							["linear"],
+							["zoom"],
+							12,
+							3,
+							15,
+							5,
+							18,
+							7
+						]
+					},
+					"property": [
+						{
+							"key": "date",
+							"name": "發生日期："
+						},
+						{
+							"key": "Time",
+							"name": "發生時間："
+						},
+						{
+							"key": "Unit",
+							"name": "處理單位名稱："
+						},
+						{
+							"key": "area",
+							"name": "地區："
+						},
+						{
+							"key": "Location",
+							"name": "發生地點："
+						},
+						{
+							"key": "Weather",
+							"name": "'天候："
+						},
+						{
+							"key": "Light",
+							"name": "光線："
+						},
+						{
+							"key": "Road Category",
+							"name": "道路類別："
+						},
+						{
+							"key": "speed limit",
+							"name": "速限："
+						},
+						{
+							"key": "Road Type (Main Category)",
+							"name": "主要路種："
+						},
+						{
+							"key": "Road Type (Subcategory)",
+							"name": "次要路種："
+						},
+						{
+							"key": "Accident Location Category",
+							"name": "事故位置類別名稱："
+						},
+						{
+							"key": "Road Condition",
+							"name": "路面狀況："
+						},
+						{
+							"key": "Road Status",
+							"name": "路面狀態："
+						},
+						{
+							"key": "Road Defect",
+							"name": "路面缺陷："
+						},
+						{
+							"key": "Obstacle",
+							"name": "障礙物："
+						},
+						{
+							"key": "Visibility",
+							"name": "視距品質："
+						},
+						{
+							"key": "Signals",
+							"name": "號誌："
+						},
+						{
+							"key": "Dividers",
+							"name": "分隔線："
+						},
+						{
+							"key": "Express Lane or General Lane",
+							"name": "車道種類："
+						},
+						{
+							"key": "Lane Divider",
+							"name": "車道分隔線："
+						},
+						{
+							"key": "Accident Type",
+							"name": "事故類型："
+						},
+						{
+							"key": "Accident Pattern",
+							"name": "事故型態："
+						},
+						{
+							"key": "Cause Analysis",
+							"name": "肇因研判："
+						},
+						{
+							"key": "Primary Cause Analysis",
+							"name": "主要肇因研判："
+						},
+						{
+							"key": "Casualties",
+							"name": "死傷人數："
+						},
+						{
+							"key": "Vehicle Type (Main Category)",
+							"name": "大類別名稱-車種："
+						},
+						{
+							"key": "Vehicle Type (Subcategory)",
+							"name": "次類別名稱-車種："
+						},
+						{
+							"key": "Involved Party - Gender",
+							"name": "當事者性別："
+						},
+						{
+							"key": "Involved Party Age at Incident",
+							"name": "當事者年齡："
+						},
+						{
+							"key": "Protective Equipment",
+							"name": "保護裝備名稱："
+						},
+						{
+							"key": "Mobile/Computer/Other Device",
+							"name": "是否使用3C產品："
+						},
+						{
+							"key": "Involved Party's Action Status",
+							"name": "行為："
+						},
+						{
+							"key": "Initial Vehicle Impact Area (Main Category)",
+							"name": "主要車輛碰撞區域："
+						}
+					],
+					"title": "A2類別道路交通事故原因統計",
+					"type": "circle",
+					"size": "big",
+					"icon": null
+				},
+				{
+					"index": "A2_3",
+					"paint": {
+						"circle-color": "#7dcfb6",
+						"circle-radius": [
+							"interpolate",
+							["linear"],
+							["zoom"],
+							12,
+							3,
+							15,
+							5,
+							18,
+							7
+						]
+					},
+					"property": [
+						{
+							"key": "date",
+							"name": "發生日期："
+						},
+						{
+							"key": "Time",
+							"name": "發生時間："
+						},
+						{
+							"key": "Unit",
+							"name": "處理單位名稱："
+						},
+						{
+							"key": "area",
+							"name": "地區："
+						},
+						{
+							"key": "Location",
+							"name": "發生地點："
+						},
+						{
+							"key": "Weather",
+							"name": "'天候："
+						},
+						{
+							"key": "Light",
+							"name": "光線："
+						},
+						{
+							"key": "Road Category",
+							"name": "道路類別："
+						},
+						{
+							"key": "speed limit",
+							"name": "速限："
+						},
+						{
+							"key": "Road Type (Main Category)",
+							"name": "主要路種："
+						},
+						{
+							"key": "Road Type (Subcategory)",
+							"name": "次要路種："
+						},
+						{
+							"key": "Accident Location Category",
+							"name": "事故位置類別名稱："
+						},
+						{
+							"key": "Road Condition",
+							"name": "路面狀況："
+						},
+						{
+							"key": "Road Status",
+							"name": "路面狀態："
+						},
+						{
+							"key": "Road Defect",
+							"name": "路面缺陷："
+						},
+						{
+							"key": "Obstacle",
+							"name": "障礙物："
+						},
+						{
+							"key": "Visibility",
+							"name": "視距品質："
+						},
+						{
+							"key": "Signals",
+							"name": "號誌："
+						},
+						{
+							"key": "Dividers",
+							"name": "分隔線："
+						},
+						{
+							"key": "Express Lane or General Lane",
+							"name": "車道種類："
+						},
+						{
+							"key": "Lane Divider",
+							"name": "車道分隔線："
+						},
+						{
+							"key": "Accident Type",
+							"name": "事故類型："
+						},
+						{
+							"key": "Accident Pattern",
+							"name": "事故型態："
+						},
+						{
+							"key": "Cause Analysis",
+							"name": "肇因研判："
+						},
+						{
+							"key": "Primary Cause Analysis",
+							"name": "主要肇因研判："
+						},
+						{
+							"key": "Casualties",
+							"name": "死傷人數："
+						},
+						{
+							"key": "Vehicle Type (Main Category)",
+							"name": "大類別名稱-車種："
+						},
+						{
+							"key": "Vehicle Type (Subcategory)",
+							"name": "次類別名稱-車種："
+						},
+						{
+							"key": "Involved Party - Gender",
+							"name": "當事者性別："
+						},
+						{
+							"key": "Involved Party Age at Incident",
+							"name": "當事者年齡："
+						},
+						{
+							"key": "Protective Equipment",
+							"name": "保護裝備名稱："
+						},
+						{
+							"key": "Mobile/Computer/Other Device",
+							"name": "是否使用3C產品："
+						},
+						{
+							"key": "Involved Party's Action Status",
+							"name": "行為："
+						},
+						{
+							"key": "Initial Vehicle Impact Area (Main Category)",
+							"name": "主要車輛碰撞區域："
+						}
+					],
+					"title": "A2類別道路交通事故原因統計",
+					"type": "circle",
+					"size": "big",
+					"icon": null
+				}
+			],
+			"map_filter": {
+				"mode": "byParam",
+				"byParam": {
+					"xParam": "area"
+				}
+			},
+			"chart_config": {
+				"types": ["PolarAreaChart"],
+				"unit": "件",
+				"color": ["#f79256", "#fbd1a2", "#7dcfb6"],
+				"categories": [
+					"大園區",
+					"觀音區",
+					"龜山區",
+					"大溪區",
+					"龍潭區",
+					"楊梅區",
+					"桃園區",
+					"新屋區",
+					"中壢區",
+					"八德區",
+					"平鎮區",
+					"復興區",
+					"蘆竹區"
+				]
+			},
+			"name": "A2類別道路交通事故原因統計",
+			"source": "桃園市警察局",
+			"time_from": null,
+			"short_desc": "顯示A2類別道路交通事故原因分布。",
+			"long_desc": "顯示A2類別道路交通事故原因分布，資料來源為桃園市警察局，不定期更新。",
+			"use_case": "呈現A2類別道路交通事故原因分布及其細項類別。",
+			"links": [""],
+			"contributors": ["tuic"]
+		},
+		"214": {
+			"id": 214,
+			"index": "Tall_6",
+			"chart_config": {
+				"color": ["#6a4c93", "#fbe9d7"],
+				"types": ["GuageChart"],
+				"unit": "件",
+				"categories": ["死亡率", "受傷率"]
+			},
+			"name": "駕駛人與戴用安全帽關係",
+			"source": "交通局",
+			"time_from": null,
+			"time_to": null,
+			"update_freq": 1,
+			"update_freq_unit": "year",
+			"short_desc": "顯示駕駛人與戴用安全帽之死傷關係。",
+			"long_desc": "顯示駕駛人與戴用安全帽之死傷關係，資料來源為桃園市交通局，每年更新。",
+			"use_case": "對比駕駛人戴用安全帽之對比，呈現死傷原因。",
+			"links": [""],
+			"tags": [],
+			"contributors": ["tuic"]
+		},
+		"215": {
+			"id": 215,
+			"index": "Tall_7",
+			"chart_config": {
+				"color": ["#ff0a54", "#fbb1bd"],
+				"types": ["GuageChart"],
+				"unit": "件",
+				"categories": ["死亡率", "受傷率"]
+			},
+			"name": "被載人與戴用安全帽關係",
+			"source": "交通局",
+			"time_from": null,
+			"time_to": null,
+			"update_freq": 1,
+			"update_freq_unit": "year",
+			"short_desc": "顯示被載人與戴用安全帽之死傷關係。",
+			"long_desc": "顯示被載人與戴用安全帽之死傷關係，資料來源為桃園市交通局，每年更新。",
+			"use_case": "對比被載人戴用安全帽之對比，呈現死傷原因。",
+			"links": [""],
+			"tags": [],
+			"contributors": ["tuic"]
+		},
+		"216": {
+			"id": 216,
+			"index": "Signal_map",
+			"map_config": [
+				{
+					"index": "1_1",
+					"paint": {
+						"circle-color": "#67baca",
+						"circle-radius": [
+							"interpolate",
+							["linear"],
+							["zoom"],
+							12,
+							3,
+							15,
+							5,
+							18,
+							7
+						]
+					},
+					"property": [
+						{
+							"key": "發生地區",
+							"name": "發生地區："
+						},
+						{
+							"key": "發生地點",
+							"name": "發生地點："
+						},
+						{
+							"key": "號誌-號誌種類名稱",
+							"name": ""
+						}
+					],
+					"type": "circle",
+					"size": "big",
+					"icon": null,
+					"title": "行車管制號誌(附設行人專用號誌)"
+				},
+				{
+					"index": "1_2",
+					"paint": {
+						"circle-color": "#5a8965",
+						"circle-radius": [
+							"interpolate",
+							["linear"],
+							["zoom"],
+							12,
+							3,
+							15,
+							5,
+							18,
+							7
+						]
+					},
+					"property": [
+						{
+							"key": "發生地區",
+							"name": "發生地區："
+						},
+						{
+							"key": "發生地點",
+							"name": "發生地點："
+						},
+						{
+							"key": "號誌-號誌種類名稱",
+							"name": ""
+						}
+					],
+					"type": "circle",
+					"size": "big",
+					"icon": null,
+					"title": "行車管制號誌"
+				},
+				{
+					"index": "1_3",
+					"paint": {
+						"circle-color": "#477653",
+						"circle-radius": [
+							"interpolate",
+							["linear"],
+							["zoom"],
+							12,
+							3,
+							15,
+							5,
+							18,
+							7
+						]
+					},
+					"property": [
+						{
+							"key": "發生地區",
+							"name": "發生地區："
+						},
+						{
+							"key": "發生地點",
+							"name": "發生地點："
+						},
+						{
+							"key": "號誌-號誌種類名稱",
+							"name": ""
+						}
+					],
+					"type": "circle",
+					"size": "big",
+					"icon": null,
+					"title": "閃光號誌"
+				},
+				{
+					"index": "1_4",
+					"paint": {
+						"circle-color": "#9b976c",
+						"circle-radius": [
+							"interpolate",
+							["linear"],
+							["zoom"],
+							12,
+							3,
+							15,
+							5,
+							18,
+							7
+						]
+					},
+					"property": [
+						{
+							"key": "發生地區",
+							"name": "發生地區："
+						},
+						{
+							"key": "發生地點",
+							"name": "發生地點："
+						},
+						{
+							"key": "號誌-號誌種類名稱",
+							"name": ""
+						}
+					],
+					"type": "circle",
+					"size": "big",
+					"icon": null,
+					"title": "無號誌"
+				}
+			],
+			"map_filter": {
+				"mode": "byParam",
+				"byParam": {
+					"xParam": "號誌-號誌種類名稱"
+				}
+			},
+			"chart_config": {
+				"color": ["#67baca", "#5a8965", "#477653", "#9b976c"],
+				"types": ["DonutChart"],
+				"unit": "件"
+			},
+			"name": "A1號誌種類",
+			"source": "桃園市警察局",
+			"time_from": null,
+			"time_to": null,
+			"short_desc": "顯示全市A1事故發生原因號誌統計",
+			"long_desc": "顯示全市A1事故發生件數及號誌類型統計，資料來源為桃園市警察局，不定期更新。",
+			"use_case": "呈現A1事故發生件數及號誌類型統計，若需更詳細的資料可透過地圖模式進行查詢。",
+			"links": [""],
+			"tags": [],
+			"contributors": ["tuic"]
+		},
+		"217": {
+			"id": 217,
+			"index": "Defect_map",
+			"map_config": [
+				{
+					"index": "2_1",
+					"paint": {
+						"circle-color": "#1a535c",
+						"circle-radius": [
+							"interpolate",
+							["linear"],
+							["zoom"],
+							12,
+							3,
+							15,
+							5,
+							18,
+							7
+						]
+					},
+					"property": [
+						{
+							"key": "發生地區",
+							"name": "發生地區："
+						},
+						{
+							"key": "發生地點",
+							"name": "發生地點："
+						},
+						{
+							"key": "路面缺陷",
+							"name": ""
+						}
+					],
+					"type": "circle",
+					"size": "big",
+					"icon": null,
+					"title": "路面缺陷"
+				}
+			],
+			"chart_config": {
+				"types": ["MapLegend"],
+				"unit": "件"
+			},
+			"chart_data": [
+				{
+					"type": "circle",
+					"color": "#1a535c",
+					"name": "無缺陷",
+					"value": 436
+				}
+			],
+			"name": "A1路面缺陷",
+			"source": "桃園市警察局",
+			"time_from": null,
+			"time_to": null,
+			"short_desc": "顯示全市A1事故發生原因缺陷數統計",
+			"long_desc": "顯示全市A1事故發生件數及路面缺陷數統計，資料來源為桃園市警察局，不定期更新。",
+			"use_case": "呈現A1事故發生件數及路面缺陷數統計，若需更詳細的資料可透過地圖模式進行查詢。",
+			"links": [""],
+			"tags": [],
+			"contributors": ["tuic"]
+		},
+		"218": {
+			"id": 218,
+			"index": "Lane_dividing_facilities_map",
+			"map_config": [
+				{
+					"index": "3_1",
+					"paint": {
+						"circle-color": "#5aa9e6",
+						"circle-radius": [
+							"interpolate",
+							["linear"],
+							["zoom"],
+							12,
+							3,
+							15,
+							5,
+							18,
+							7
+						]
+					},
+					"property": [
+						{
+							"key": "發生地區",
+							"name": "發生地區："
+						},
+						{
+							"key": "發生地點",
+							"name": "發生地點："
+						},
+						{
+							"key": "車道劃分設施-分向設施大類別名稱",
+							"name": "類別名稱："
+						}
+					],
+					"type": "circle",
+					"size": "big",
+					"icon": null,
+					"title": "無"
+				},
+				{
+					"index": "3_2",
+					"paint": {
+						"circle-color": "#7fc8f8",
+						"circle-radius": [
+							"interpolate",
+							["linear"],
+							["zoom"],
+							12,
+							3,
+							15,
+							5,
+							18,
+							7
+						]
+					},
+					"property": [
+						{
+							"key": "發生地區",
+							"name": "發生地區："
+						},
+						{
+							"key": "發生地點",
+							"name": "發生地點："
+						},
+						{
+							"key": "車道劃分設施-分向設施大類別名稱",
+							"name": "類別名稱："
+						}
+					],
+					"type": "circle",
+					"size": "big",
+					"icon": null,
+					"title": "中央分向島"
+				},
+				{
+					"index": "3_3",
+					"paint": {
+						"circle-color": "#e7ecef",
+						"circle-radius": [
+							"interpolate",
+							["linear"],
+							["zoom"],
+							12,
+							3,
+							15,
+							5,
+							18,
+							7
+						]
+					},
+					"property": [
+						{
+							"key": "發生地區",
+							"name": "發生地區："
+						},
+						{
+							"key": "發生地點",
+							"name": "發生地點："
+						},
+						{
+							"key": "車道劃分設施-分向設施大類別名稱",
+							"name": "類別名稱："
+						}
+					],
+					"type": "circle",
+					"size": "big",
+					"icon": null,
+					"title": "行車分向線"
+				},
+				{
+					"index": "3_4",
+					"paint": {
+						"circle-color": "#ffe45e",
+						"circle-radius": [
+							"interpolate",
+							["linear"],
+							["zoom"],
+							12,
+							3,
+							15,
+							5,
+							18,
+							7
+						]
+					},
+					"property": [
+						{
+							"key": "發生地區",
+							"name": "發生地區："
+						},
+						{
+							"key": "發生地點",
+							"name": "發生地點："
+						},
+						{
+							"key": "車道劃分設施-分向設施大類別名稱",
+							"name": "類別名稱："
+						}
+					],
+					"type": "circle",
+					"size": "big",
+					"icon": null,
+					"title": "雙向禁止超車線"
+				}
+			],
+			"map_filter": {
+				"mode": "byParam",
+				"byParam": {
+					"xParam": "車道劃分設施-分向設施大類別名稱"
+				}
+			},
+			"chart_config": {
+				"color": ["#5aa9e6", "#7fc8f8", "#e7ecef", "#ffe45e"],
+				"types": ["DonutChart"],
+				"unit": "件"
+			},
+			"name": "A1車道劃分設施-分向設施大類別",
+			"source": "桃園市警察局",
+			"time_from": null,
+			"time_to": null,
+			"short_desc": "顯示全市A1事故發生原因車道劃分統計",
+			"long_desc": "顯示全市A1事故發生件數及車道劃分設施統計，資料來源為桃園市警察局，不定期更新。",
+			"use_case": "呈現A1事故發生件數及車道劃分設施統計，若需更詳細的資料可透過地圖模式進行查詢。",
+			"links": [""],
+			"tags": [],
+			"contributors": ["tuic"]
+		},
+		"219": {
+			"id": 219,
+			"index": "Signal_map_2",
+			"map_config": [
+				{
+					"index": "4_1",
+					"paint": {
+						"circle-color": "#67baca",
+						"circle-radius": [
+							"interpolate",
+							["linear"],
+							["zoom"],
+							12,
+							3,
+							15,
+							5,
+							18,
+							7
+						]
+					},
+					"property": [
+						{
+							"key": "發生地區",
+							"name": "發生地區："
+						},
+						{
+							"key": "發生地點",
+							"name": "發生地點："
+						},
+						{
+							"key": "號誌-號誌種類名稱",
+							"name": ""
+						}
+					],
+					"type": "circle",
+					"size": "big",
+					"icon": null,
+					"title": "行車管制號誌(附設行人專用號誌)"
+				},
+				{
+					"index": "4_2",
+					"paint": {
+						"circle-color": "#5a8965",
+						"circle-radius": [
+							"interpolate",
+							["linear"],
+							["zoom"],
+							12,
+							3,
+							15,
+							5,
+							18,
+							7
+						]
+					},
+					"property": [
+						{
+							"key": "發生地區",
+							"name": "發生地區："
+						},
+						{
+							"key": "發生地點",
+							"name": "發生地點："
+						},
+						{
+							"key": "號誌-號誌種類名稱",
+							"name": ""
+						}
+					],
+					"type": "circle",
+					"size": "big",
+					"icon": null,
+					"title": "行車管制號誌"
+				},
+				{
+					"index": "4_3",
+					"paint": {
+						"circle-color": "#477653",
+						"circle-radius": [
+							"interpolate",
+							["linear"],
+							["zoom"],
+							12,
+							3,
+							15,
+							5,
+							18,
+							7
+						]
+					},
+					"property": [
+						{
+							"key": "發生地區",
+							"name": "發生地區："
+						},
+						{
+							"key": "發生地點",
+							"name": "發生地點："
+						},
+						{
+							"key": "號誌-號誌種類名稱",
+							"name": ""
+						}
+					],
+					"type": "circle",
+					"size": "big",
+					"icon": null,
+					"title": "閃光號誌"
+				},
+				{
+					"index": "4_4",
+					"paint": {
+						"circle-color": "#9b976c",
+						"circle-radius": [
+							"interpolate",
+							["linear"],
+							["zoom"],
+							12,
+							3,
+							15,
+							5,
+							18,
+							7
+						]
+					},
+					"property": [
+						{
+							"key": "發生地區",
+							"name": "發生地區："
+						},
+						{
+							"key": "發生地點",
+							"name": "發生地點："
+						},
+						{
+							"key": "號誌-號誌種類名稱",
+							"name": ""
+						}
+					],
+					"type": "circle",
+					"size": "big",
+					"icon": null,
+					"title": "無號誌"
+				}
+			],
+			"map_filter": {
+				"mode": "byParam",
+				"byParam": {
+					"xParam": "號誌-號誌種類名稱"
+				}
+			},
+			"chart_config": {
+				"color": ["#67baca", "#5a8965", "#477653", "#9b976c"],
+				"types": ["DonutChart"],
+				"unit": "件"
+			},
+			"name": "A2號誌種類",
+			"source": "桃園市警察局",
+			"time_from": null,
+			"time_to": null,
+			"short_desc": "顯示全市A2事故發生原因號誌統計",
+			"long_desc": "顯示全市A2事故發生件數及號誌類型統計，資料來源為桃園市警察局，不定期更新。",
+			"use_case": "呈現A2事故發生件數及號誌類型統計，若需更詳細的資料可透過地圖模式進行查詢。",
+			"links": [""],
+			"tags": [],
+			"contributors": ["tuic"]
+		},
+		"220": {
+			"id": 220,
+			"index": "Defect_map_2",
+			"map_config": [
+				{
+					"index": "5_1",
+					"paint": {
+						"circle-color": "#1a535c",
+						"circle-radius": [
+							"interpolate",
+							["linear"],
+							["zoom"],
+							12,
+							3,
+							15,
+							5,
+							18,
+							7
+						]
+					},
+					"property": [
+						{
+							"key": "發生地區",
+							"name": "發生地區："
+						},
+						{
+							"key": "發生地點",
+							"name": "發生地點："
+						},
+						{
+							"key": "路面缺陷",
+							"name": ""
+						}
+					],
+					"type": "circle",
+					"size": "big",
+					"icon": null,
+					"title": "無缺陷"
+				},
+				{
+					"index": "5_2",
+					"paint": {
+						"circle-color": "#4ecdc4",
+						"circle-radius": [
+							"interpolate",
+							["linear"],
+							["zoom"],
+							12,
+							3,
+							15,
+							5,
+							18,
+							7
+						]
+					},
+					"property": [
+						{
+							"key": "發生地區",
+							"name": "發生地區："
+						},
+						{
+							"key": "發生地點",
+							"name": "發生地點："
+						},
+						{
+							"key": "路面缺陷",
+							"name": ""
+						}
+					],
+					"type": "circle",
+					"size": "big",
+					"icon": null,
+					"title": "有坑洞"
+				},
+				{
+					"index": "5_3",
+					"paint": {
+						"circle-color": "#f7fff7",
+						"circle-radius": [
+							"interpolate",
+							["linear"],
+							["zoom"],
+							12,
+							3,
+							15,
+							5,
+							18,
+							7
+						]
+					},
+					"property": [
+						{
+							"key": "發生地區",
+							"name": "發生地區："
+						},
+						{
+							"key": "發生地點",
+							"name": "發生地點："
+						},
+						{
+							"key": "路面缺陷",
+							"name": ""
+						}
+					],
+					"type": "circle",
+					"size": "big",
+					"icon": null,
+					"title": "突出(高低)不平"
+				},
+				{
+					"index": "5_4",
+					"paint": {
+						"circle-color": "#ff6b6b",
+						"circle-radius": [
+							"interpolate",
+							["linear"],
+							["zoom"],
+							12,
+							3,
+							15,
+							5,
+							18,
+							7
+						]
+					},
+					"property": [
+						{
+							"key": "發生地區",
+							"name": "發生地區："
+						},
+						{
+							"key": "發生地點",
+							"name": "發生地點："
+						},
+						{
+							"key": "路面缺陷",
+							"name": ""
+						}
+					],
+					"type": "circle",
+					"size": "big",
+					"icon": null,
+					"title": "路面鬆軟"
+				}
+			],
+			"chart_config": {
+				"types": ["MapLegend"]
+			},
+			"chart_data": [
+				{
+					"type": "circle",
+					"color": "#1a535c",
+					"name": "無缺陷",
+					"value": 97614
+				},
+				{
+					"type": "circle",
+					"color": "#4ecdc4",
+					"name": "有坑洞",
+					"value": 103
+				},
+				{
+					"type": "circle",
+					"color": "#f7fff7",
+					"name": "突出(高低)不平",
+					"value": 132
+				},
+				{
+					"type": "circle",
+					"color": "#ff6b6b",
+					"name": "路面鬆軟",
+					"value": 70
+				}
+			],
+			"name": "A2路面缺陷",
+			"source": "桃園市警察局",
+			"time_from": null,
+			"time_to": null,
+			"short_desc": "顯示全市A2事故發生原因缺陷數統計",
+			"long_desc": "顯示全市A2事故發生件數及路面缺陷數統計，資料來源為桃園市警察局，不定期更新。",
+			"use_case": "呈現A2事故發生件數及路面缺陷數統計，若需更詳細的資料可透過地圖模式進行查詢。",
+			"links": [""],
+			"tags": [],
+			"contributors": ["tuic"]
+		},
+		"221": {
+			"id": 221,
+			"index": "Lane_dividing_facilities_map_2",
+			"map_config": [
+				{
+					"index": "6_1",
+					"paint": {
+						"circle-color": "#5aa9e6",
+						"circle-radius": [
+							"interpolate",
+							["linear"],
+							["zoom"],
+							12,
+							3,
+							15,
+							5,
+							18,
+							7
+						]
+					},
+					"property": [
+						{
+							"key": "發生地區",
+							"name": "發生地區："
+						},
+						{
+							"key": "發生地點",
+							"name": "發生地點："
+						},
+						{
+							"key": "車道劃分設施-分向設施大類別名稱",
+							"name": "類別名稱："
+						}
+					],
+					"type": "circle",
+					"size": "big",
+					"icon": null,
+					"title": "無"
+				},
+				{
+					"index": "6_2",
+					"paint": {
+						"circle-color": "#7fc8f8",
+						"circle-radius": [
+							"interpolate",
+							["linear"],
+							["zoom"],
+							12,
+							3,
+							15,
+							5,
+							18,
+							7
+						]
+					},
+					"property": [
+						{
+							"key": "發生地區",
+							"name": "發生地區："
+						},
+						{
+							"key": "發生地點",
+							"name": "發生地點："
+						},
+						{
+							"key": "車道劃分設施-分向設施大類別名稱",
+							"name": "類別名稱："
+						}
+					],
+					"type": "circle",
+					"size": "big",
+					"icon": null,
+					"title": "中央分向島"
+				},
+				{
+					"index": "6_3",
+					"paint": {
+						"circle-color": "#e7ecef",
+						"circle-radius": [
+							"interpolate",
+							["linear"],
+							["zoom"],
+							12,
+							3,
+							15,
+							5,
+							18,
+							7
+						]
+					},
+					"property": [
+						{
+							"key": "發生地區",
+							"name": "發生地區："
+						},
+						{
+							"key": "發生地點",
+							"name": "發生地點："
+						},
+						{
+							"key": "車道劃分設施-分向設施大類別名稱",
+							"name": "類別名稱："
+						}
+					],
+					"type": "circle",
+					"size": "big",
+					"icon": null,
+					"title": "行車分向線"
+				},
+				{
+					"index": "6_4",
+					"paint": {
+						"circle-color": "#ffe45e",
+						"circle-radius": [
+							"interpolate",
+							["linear"],
+							["zoom"],
+							12,
+							3,
+							15,
+							5,
+							18,
+							7
+						]
+					},
+					"property": [
+						{
+							"key": "發生地區",
+							"name": "發生地區："
+						},
+						{
+							"key": "發生地點",
+							"name": "發生地點："
+						},
+						{
+							"key": "車道劃分設施-分向設施大類別名稱",
+							"name": "類別名稱："
+						}
+					],
+					"type": "circle",
+					"size": "big",
+					"icon": null,
+					"title": "雙向禁止超車線"
+				},
+				{
+					"index": "6_5",
+					"paint": {
+						"circle-color": "#ffecd1",
+						"circle-radius": [
+							"interpolate",
+							["linear"],
+							["zoom"],
+							12,
+							3,
+							15,
+							5,
+							18,
+							7
+						]
+					},
+					"property": [
+						{
+							"key": "發生地區",
+							"name": "發生地區："
+						},
+						{
+							"key": "發生地點",
+							"name": "發生地點："
+						},
+						{
+							"key": "車道劃分設施-分向設施大類別名稱",
+							"name": "類別名稱："
+						}
+					],
+					"type": "circle",
+					"size": "big",
+					"icon": null,
+					"title": "單向禁止超車線"
+				}
+			],
+			"map_filter": {
+				"mode": "byParam",
+				"byParam": {
+					"xParam": "車道劃分設施-分向設施大類別名稱"
+				}
+			},
+			"chart_config": {
+				"color": [
+					"#5aa9e6",
+					"#7fc8f8",
+					"#e7ecef",
+					"#ffe45e",
+					"#ffecd1"
+				],
+				"types": ["DonutChart"],
+				"unit": "件"
+			},
+			"name": "A2車道劃分設施-分向設施大類別",
+			"source": "桃園市警察局",
+			"time_from": null,
+			"time_to": null,
+			"short_desc": "顯示全市A2事故發生原因車道劃分統計",
+			"long_desc": "顯示全市A2事故發生件數及車道劃分設施統計，資料來源為桃園市警察局，不定期更新。",
+			"use_case": "呈現A2事故發生件數及車道劃分設施統計，若需更詳細的資料可透過地圖模式進行查詢。",
+			"links": [""],
+			"tags": [],
 			"contributors": ["tuic"]
 		}
 	}

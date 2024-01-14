@@ -333,6 +333,9 @@ export const maplayerCommonLayout = {
 	"symbol-triangle_white": {
 		"icon-image": "triangle_white",
 	},
+	"symbol-triangle_y": {
+		"icon-image": "triangle_y",
+	},
 	"symbol-youbike": {
 		"icon-image": [
 			"case",
@@ -403,6 +406,20 @@ export const maplayerCommonLayout = {
 			40,
 			22,
 			60,
+		],
+	},
+	"symbol-amap": {
+		"icon-image": "amap",
+		"icon-size": [
+			"interpolate",
+			["linear"],
+			["zoom"],
+			11.99,
+			0.7,
+			14,
+			1.1,
+			22,
+			1.4,
 		],
 	},
 };
